@@ -16,6 +16,11 @@
       "types": "./dist/docs.d.ts",
       "import": "./dist/docs.js",
       "default": "./dist/docs.js"
+    },
+    "./keying": {
+      "types": "./dist/keying.d.ts",
+      "import": "./dist/keying.js",
+      "default": "./dist/keying.js"
     }
   },
   "files": [

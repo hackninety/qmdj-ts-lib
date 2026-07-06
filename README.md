@@ -22,10 +22,24 @@ getBooks(); // [{ book:'奇门遁甲秘笈大全', docCount:31, sectionCount:750
 import { getDocsManifest, getSections, getDocMarkdown, searchDocs } from 'qmdj-ts-lib/docs';
 
 getDocsManifest();                          // 33 篇目录（title/book/dynasty/author）
-getSections();                              // 796 节索引（docPath/juan/title/order）
+getSections();                              // 800 节索引（docPath/juan/title/order）
 await getDocMarkdown('qmmj/book/juan01.md'); // 卷一 markdown（含「烟波钓叟歌」等 15 节）
 await searchDocs('飞鸟跌穴');                 // 全文检索（空格分隔多词 AND）
 await searchDocs('伤门', { pathPrefix: 'qmmj/book/juan05', limit: 20 });
+
+// 盘面克应子入口：排盘结果 → 典籍断语（579 条深度结构化条目）
+import { lookupChart, getStarLore, getGateLore } from 'qmdj-ts-lib/keying';
+
+const refs = lookupChart({
+  palaces: [{ gong: 6, tianPanGan: ['壬'], diPanGan: ['戊'], star: '天蓬', gate: '开门', god: '太阴' }],
+  hourZhi: '未',        // → 值时克应（九星×十二时 108 条）
+  hourGan: '癸',        // → 时加六仪
+  patterns: ['青龙返首'], // → 格局断语（吉凶格 59 条 + 十干克应格名）
+  marks: ['门迫'],       // → 门迫歌/三奇入墓歌
+});
+// 每条命中含 kind/key/宫位/格名/原文/docPath（可深链典籍抽屉）
+// 覆盖：十干克应(81) 门静动应(198) 九星总断(9) 值时(108) 三奇到宫(24)
+//       八神(8) 时加六仪(10) 吉凶格局(59) 标记歌诀(2) 七十二局(72)
 ```
 
 ## 数据流水线
