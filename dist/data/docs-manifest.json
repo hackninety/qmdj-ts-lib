@@ -1,0 +1,268 @@
+{
+ "manifest": [
+  {
+   "path": "qmmj/book/xu.md",
+   "title": "序 · 总序",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan01.md",
+   "title": "卷一 · 烟波钓叟歌（15节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan02.md",
+   "title": "卷二 · 十干克应诀（4节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan03.md",
+   "title": "卷三 · 天辅星（6节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan04.md",
+   "title": "卷四 · 三奇到宫克应吉凶（12节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan05.md",
+   "title": "卷五 · 伤门克应（17节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan06.md",
+   "title": "卷六 · 九遁变化法（10节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan07.md",
+   "title": "卷七 · 奇门主客占验论（29节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan08.md",
+   "title": "卷八 · 占出外预定归期（32节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan09.md",
+   "title": "卷九 · 占失物（22节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan10.md",
+   "title": "卷十 · 占走失奴婢（27节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan11.md",
+   "title": "卷十一 · 千金诀（54节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan12.md",
+   "title": "卷十二 · 晴雨占（55节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan13.md",
+   "title": "卷十三 · 行人占（65节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan14.md",
+   "title": "卷十四 · 婚姻占（51节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan15.md",
+   "title": "卷十五 · 三奇八门（9节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan16.md",
+   "title": "卷十六 · 太冲天马方吉时定局（17节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan17.md",
+   "title": "卷十七 · 三奇到宫断（39节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan18.md",
+   "title": "卷十八 · 天蓬、天芮星值辰时（68节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan19.md",
+   "title": "卷十九 · 斗柄所指（15节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan20.md",
+   "title": "卷二十 · 黄黑道日时（28节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan21.md",
+   "title": "卷二十一 · 论主客（16节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan22.md",
+   "title": "卷二十二 · 八门总歌（8节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan23.md",
+   "title": "卷二十三 · 论十方星将生克（6节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan24.md",
+   "title": "卷二十四 · 出行呼神字入太阴中（15节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan25.md",
+   "title": "卷二十五 · 游门（19节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan26.md",
+   "title": "卷二十六 · 三台下主九州岛（16节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan27.md",
+   "title": "卷二十七 · 纳音分日例（9节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan28.md",
+   "title": "卷二十八 · 六丁六甲神符（13节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan29.md",
+   "title": "卷二十九 · 阳遁九局（74节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/juan30.md",
+   "title": "卷三十 · 奇门地盘图（2节）",
+   "group": "book",
+   "book": "奇门遁甲秘笈大全",
+   "dynasty": "明",
+   "author": "旧题明·刘伯温辑"
+  },
+  {
+   "path": "qmmj/book/jhyj01.md",
+   "title": "金函玉镜卷一 · 九星落局法（23节）",
+   "group": "book",
+   "book": "金函玉镜（附）",
+   "dynasty": "蜀（旧题）",
+   "author": "旧题蜀·诸葛亮"
+  },
+  {
+   "path": "qmmj/book/jhyj06.md",
+   "title": "金函玉镜卷六 · 五不遇时实时干克日乾（23节）",
+   "group": "book",
+   "book": "金函玉镜（附）",
+   "dynasty": "蜀（旧题）",
+   "author": "旧题蜀·诸葛亮"
+  }
+ ]
+}

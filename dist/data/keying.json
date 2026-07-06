@@ -1,0 +1,4246 @@
+{
+ "source": "ctext.org wiki res=953105《奇門遁甲秘笈大全》（卷二/四/五/十五/十六/十七/二十九 深度结构化）",
+ "shiGan": [
+  {
+   "tian": "戊",
+   "di": "戊",
+   "text": "甲值符谓之「伏吟」。凡事闭塞，静守为吉。",
+   "name": "伏吟",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "乙",
+   "text": "为「青龙合灵」，门吉事吉，门凶事凶。",
+   "name": "青龙合灵",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "丙",
+   "text": "为「青龙返首」，动作大吉，若逢迫、墓、击、刑，吉事成凶。",
+   "name": "青龙返首",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "丁",
+   "text": "为「青龙耀明」，谒贵求名吉利，若值墓、迫，招是招非。",
+   "name": "青龙耀明",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "己",
+   "text": "为「贵人入狱」，公私皆不利。",
+   "name": "贵人入狱",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "庚",
+   "text": "为「值符飞宫」，吉事不吉，凶事更凶。",
+   "name": "值符飞宫",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "辛",
+   "text": "为「青龙折足」，吉门生助尚可谋为，\n若逢凶门，主招灾、失财、有足疾。",
+   "name": "青龙折足",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "壬",
+   "text": "为「青龙入天牢」，凡阴阳皆不吉利。",
+   "name": "青龙入天牢",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "戊",
+   "di": "癸",
+   "text": "为「青龙华盖」吉格者吉，招福，门凶多乖。",
+   "name": "青龙华盖",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "戊",
+   "text": "甲值符为「利阴害阳」，门逢凶迫，财破人伤。",
+   "name": "利阴害阳",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "乙",
+   "text": "为「日奇伏吟」，不宜谒贵求名，只可安分守身。",
+   "name": "日奇伏吟",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "丙",
+   "text": "为「奇仪顺遂」，吉星迁官进职，凶星夫妻离别。",
+   "name": "奇仪顺遂",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "丁",
+   "text": "为「奇仪相佐」，文书事吉，百事皆可为。",
+   "name": "奇仪相佐",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "己",
+   "text": "为「日奇入雾」，被土暗昧，门凶必凶，得三吉门为「地遁」。",
+   "name": "日奇入雾",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "庚",
+   "text": "为「日奇被刑」，争讼财产，夫妻怀私。",
+   "name": "日奇被刑",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "辛",
+   "text": "为「青龙逃走」，奴仆拐带，六畜皆伤。",
+   "name": "青龙逃走",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "壬",
+   "text": "为「日奇入地」，尊卑悖乱，官讼是非。",
+   "name": "日奇入地",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "乙",
+   "di": "癸",
+   "text": "为「华盖逢星」，官遁迹修道，隐匿藏形，躲灾避难为吉。",
+   "name": "华盖逢星",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "戊",
+   "text": "甲值符名「飞鸟跌穴」，谋为百事洞澈。",
+   "name": "飞鸟跌穴",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "乙",
+   "text": "为「日月并行」，公谋私为皆吉。",
+   "name": "日月并行",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "丙",
+   "text": "为「月奇孛师」，文书逼迫，破耗遗失。",
+   "name": "月奇孛师",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "丁",
+   "text": "为「月奇朱雀」，贵人文书吉利，常人平静，得三吉门为「天遁」。",
+   "name": "月奇朱雀",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "己",
+   "text": "为「太孛入刑」，囚人刑杖，文书不行，吉门得吉，凶门转凶。",
+   "name": "太孛入刑",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "庚",
+   "text": "为「荧入太白」，门户破败，盗贼耗失。",
+   "name": "荧入太白",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "辛",
+   "text": "为「谋事就成」，病人不凶。",
+   "name": "谋事就成",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "壬",
+   "text": "为「火入天罗」，为客不利，是非颇多。",
+   "name": "火入天罗",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丙",
+   "di": "癸",
+   "text": "为「华盖孛师」，阴人害事，灾祸频生。",
+   "name": "华盖孛师",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "戊",
+   "text": "甲值符为「青龙转光」，官人升迁，常人威昌。",
+   "name": "青龙转光",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "乙",
+   "text": "为「人遁」吉格，贵人加官进爵，常人婚姻财喜。",
+   "name": "人遁",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "丙",
+   "text": "为「星随月转」，贵人越级高升，常人乐里生悲。",
+   "name": "星随月转",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "丁",
+   "text": "为「奇入太阴」，文书即至，喜事遂心。",
+   "name": "奇入太阴",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "己",
+   "text": "为「火入勾陈」，奸私雠冤，事因女人。",
+   "name": "火入勾陈",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "庚",
+   "text": "为「年月日时格」，文书阻隔，行人必归。",
+   "name": "年月日时格",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "辛",
+   "text": "名曰「朱雀入狱」，罪人释囚，官人失位。",
+   "name": "朱雀入狱",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "壬",
+   "text": "名曰「五神互合」，贵人恩昭，讼狱公平。",
+   "name": "五神互合",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "丁",
+   "di": "癸",
+   "text": "名曰「朱雀投江」，文书口舌俱消，音信沉溺。",
+   "name": "朱雀投江",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "戊",
+   "text": "甲值符为「犬遇青龙」，门吉谋望遂意，上人见喜，门凶枉劳心机",
+   "name": "犬遇青龙",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "乙",
+   "text": "名为「墓神不明」，地户蓬星，宜遁迹隐形为利逸。",
+   "name": "墓神不明",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "丙",
+   "text": "名曰「火孛地户」，阳人冤枉相害，阴人必致淫污。",
+   "name": "火孛地户",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "丁",
+   "text": "名曰「朱雀入墓」，文状词讼，先曲后直。",
+   "name": "朱雀入墓",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "己",
+   "text": "名为「地户逢鬼」，病者必死，百事不遂。",
+   "name": "地户逢鬼",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "庚",
+   "text": "名曰「刑格」，求名、词讼先动者不利，阴星有谋害之情。",
+   "name": "刑格",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "辛",
+   "text": "名曰「游魂入墓」，大人鬼魅，小人家先为祟。",
+   "name": "游魂入墓",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "壬",
+   "text": "名曰「地网高张」，狡童佚女，奸情杀伤。",
+   "name": "地网高张",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "己",
+   "di": "癸",
+   "text": "名曰「地刑玄武」，男女疾病垂危，词讼有囚狱之灾。",
+   "name": "地刑玄武",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "戊",
+   "text": "甲值符曰「太白天乙伏宫」，百事不可谋为凶。",
+   "name": "太白天乙伏宫",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "乙",
+   "text": "为「太白蓬星」，退吉进凶。",
+   "name": "太白蓬星",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "丙",
+   "text": "曰「太白入荧」，占贼必来，为客进利，为主破财。",
+   "name": "太白入荧",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "丁",
+   "text": "曰「亭亭之格」，因私昵起官司，门吉有救。",
+   "name": "亭亭之格",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "己",
+   "text": "曰名为「刑格」，官司被重刑。",
+   "name": "刑格",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "庚",
+   "text": "曰「太白同宫」，官灾横祸，兄弟雷攻。",
+   "name": "太白同宫",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "辛",
+   "text": "曰「白虎乾格」，远行车折马死。",
+   "name": "白虎乾格",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "壬",
+   "text": "曰远行失迷道路，男女音信嗟呀。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "庚",
+   "di": "癸",
+   "text": "名为「大格」，行人至官司止，生产母子俱伤，大凶。",
+   "name": "大格",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "戊",
+   "text": "甲值符曰「困龙被伤」，官司破败，屈抑守分，妄动祸殃。",
+   "name": "困龙被伤",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "乙",
+   "text": "曰「白虎猖狂」，人亡家败，远行多殃，尊长不喜，车船俱伤。",
+   "name": "白虎猖狂",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "丙",
+   "text": "曰「干合孛师」，荧惑出现，占雨无，占晴旱，占事必因财致讼。",
+   "name": "干合孛师",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "丁",
+   "text": "曰「狱神得奇」，经商获倍利，因人逢赦宥。",
+   "name": "狱神得奇",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "己",
+   "text": "曰「入狱自刑」，奴仆背主，讼诉难伸。",
+   "name": "入狱自刑",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "庚",
+   "text": "曰「白虎出力」，刀刃相接，主客相残，逊让退步，\n稍可强进，血溅衣衫。",
+   "name": "白虎出力",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "辛",
+   "text": "为「伏吟天庭」，公废私就，讼狱自罹罪名。",
+   "name": "伏吟天庭",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "壬",
+   "text": "曰「凶蛇入狱」，两男争女，讼狱不息，先动失理。",
+   "name": "凶蛇入狱",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "辛",
+   "di": "癸",
+   "text": "曰「天牢华盖」，日月失明，误入天网，动止乖张。",
+   "name": "天牢华盖",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "甲",
+   "text": "子戊甲值符名曰「小蛇化龙」，男人发达，女产婴童。",
+   "name": "小蛇化龙",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "乙",
+   "text": "名曰格名「小蛇」，女子柔顺，男人嗟呀，占孕生子，禄马光华",
+   "name": "小蛇",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "丙",
+   "text": "名曰「水蛇入火」，官灾刑禁络绎不绝。",
+   "name": "水蛇入火",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "丁",
+   "text": "名曰「干合蛇刑」，文书牵连，贵人匆匆，男凶女吉。",
+   "name": "干合蛇刑",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "甲",
+   "text": "戌己名曰「凶蛇入狱」，大祸将至，顺守斯吉，词讼理曲。",
+   "name": "凶蛇入狱",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "甲",
+   "text": "申庚名曰「太白擒蛇」，刑狱公平，立剖邪正。",
+   "name": "太白擒蛇",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "甲",
+   "text": "午辛名曰「螣蛇相缠」，纵得吉门，亦不能安，若有谋望，被人欺瞒。",
+   "name": "螣蛇相缠",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "甲",
+   "text": "辰壬名曰「蛇入地罗」，外人缠绕，内事索索，门吉星凶，庶免蹉跎。",
+   "name": "蛇入地罗",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "壬",
+   "di": "甲",
+   "text": "寅癸名曰「幼女奸淫」，家有丑声，门星俱吉，反祸福隆。",
+   "name": "幼女奸淫",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "甲",
+   "text": "子戊甲值符为「天乙会合」吉格，财喜婚姻，吉人赞助成合，\n若门凶迫制，反招官非。",
+   "name": "天乙会合",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "乙",
+   "text": "名曰「华盖蓬星」，贵人禄位，常人平安。",
+   "name": "华盖蓬星",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "丙",
+   "text": "名曰「华盖孛师」，贵贱逢之，上人见喜。",
+   "name": "华盖孛师",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "丁",
+   "text": "名曰「螣蛇妖矫」，文书官司，火焚莫逃。",
+   "name": "螣蛇妖矫",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "甲",
+   "text": "戌己名曰「华盖地户」，男女占之，书信皆阻，躲灾避难为吉。",
+   "name": "华盖地户",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "甲",
+   "text": "申庚曰「太白入网」，以暴争讼力平。",
+   "name": "太白入网",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "甲",
+   "text": "午辛曰「网盖天牢」，占讼占病，死罪莫逃。",
+   "name": "网盖天牢",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "甲",
+   "text": "辰壬曰「复见螣蛇」，嫁娶重婚，后嫁无子，不保年华。",
+   "name": "复见螣蛇",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "tian": "癸",
+   "di": "甲",
+   "text": "寅癸曰「天网四张」，行人失伴，病讼皆伤。",
+   "name": "天网四张",
+   "docPath": "qmmj/book/juan02.md"
+  }
+ ],
+ "shiJiaGe": [
+  {
+   "gan": "甲",
+   "text": "一开一阖，上下交接。阳星为开，阴星为阖，孟仲为阖，季加为开",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "乙",
+   "text": "往来恍惚，与神俱出。加地盘乙，与日奇同行，谋为皆吉。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "丙",
+   "text": "万兵莫往，王侯之象。加地盘丙为天威，行兵谋为，有吉无凶。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "丁",
+   "text": "出幽入冥，到老不刑。加地盘丁者，为挟玉女而行，谋为百事皆吉",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "戊",
+   "text": "乘龙万里，万敢呵止。加地盘戊为天武，公私谋为皆吉。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "己",
+   "text": "如神所使，出彼凶咎。加地盘己，为地户刑，\n伏藏私匿，利私不利公。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "庚",
+   "text": "抱木而行，强有出入，必有争鬪。加地盘庚为天刑，凡事凶。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "辛",
+   "text": "行逢死人，强有作为，殃罚缠身。加地盘辛为天庭，谋为皆凶。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "壬",
+   "text": "为吏所禁，强有出入，非祸相侵。加地盘壬为天牢，百事俱凶。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "gan": "癸",
+   "text": "众人莫视，不知六癸，出门即死。加地盘癸为地网，利隐遁，馀事皆凶。",
+   "docPath": "qmmj/book/juan02.md"
+  }
+ ],
+ "menZong": [
+  {
+   "gate": "开门",
+   "text": "开门欲得照临来，奴婢牛羊百日廻，财源婚姻田地入，兴隆宅舍有资财，产业招得商音送，巳酉丑年必人来，荫袭子孙多拜授，紫衣金带沐恩回。\n问曰：开门属金，以天地肃杀之气，万物俱尽之时，何以谓吉？\n衢仙答曰：「开门之金，固是万物杀尽之时，却不知万物杀尽而有复生」。\n开 门属乾，干中有亥，乾纳甲壬，金动水生，水生而生万物，故为滋生万物之初，又为天门，所以吉也。若得乙奇相合，名为天遁，得日精所蔽。与丙奇合，得月精所 蔽。与丁奇合，得太阴所蔽。凡有谋为，宜名正言顺，公事从之而百吉百泰。若为阴私之事，必被他人泄漏反遭凶咎。喜干兑之宫为相气，入坎宫为旺气，金水相 生，如母顾子，所以为吉。出行四里或四十里见猪鼠等物，六十里见贵人车马，逢酒食事。艮宫入墓，震宫为迫，又为四气，巽宫反吟，离宫金被火克，不利。开门 出者，三十里见贵人骑马吉，四十里见猪马，有酒食吉。乙奇临见贵人著红衣，丙奇临见老人持杖，丁奇临见人执竹木等物为应吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "text": "休门最好聚资财，牛马猪羊自送来，外日婚姻南方应，迁官进职作京台，定进羽音人产业，居家安庆水无灾。\n问曰：休门属水，无物不杀，霜雪之寒，纯阴之气，元武之精，三光不照，鬼邪所居之宫，何以言吉？\n衢仙答曰：「休门之水，故为至阴之地，实系宝瓶宫，万物以水为生气，，而发扬于外，以水为死气，收敛归根而藏精于内。子者乃一阳复始之初，草木值此而萌动， 返本还源之门，所以吉也。休门与丁奇合，下临太阴为人遁，得星精所蔽，百事皆吉。旺于震宫，相于坎宫，生于乾、兑宫，皆吉；坤、艮、中宫，被土克制，巽宫 入墓，离宫返吟，不利。宜谒贵、取和合，百事皆吉。出行五十里见蛇、鼠、水中黑色之物为应」。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "text": "生门临著吉星辰，人财资旺各称情，子丑年中三七月，牛羊鞍马进门庭，蚕榖绵丝皆丰足，朱紫儿郎在帝京，南方商信田土进，子孙禄位到公卿。\n问曰：生门艮土，少阳之方，何以为至言？\n衢仙答曰：「艮者，寅位天开于子，地辟于丑，人建于寅，天气至此，而三阳俱足，开泰从此，而万物皆生，阳回气转，天地好生之情，而广及万物，仁道生焉，所以 为至吉之门。生门与乙奇合，下临九地为地遁，得日精所蔽吉。与丙奇合，得月精所蔽，为天遁。与丁奇合得星精所蔽，为人遁，百事大吉」。\n生门宜上官、修造、嫁娶、求财、牧养皆大吉。出六十里主见贵人车马吉。临乾、兑二宫为旺，中宫为相，坎宫为迫，震宫被木克制，入巽宫入墓皆不利，生于离宫吉。\n生门出者，八里、十八里见贵人车马，或公吏、皂衣人。乙奇临见兔，或二鼠相咬。丙奇临见病人足，或二人争财吵闹。丁奇见渔猎人，此方大利，百事俱利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "伤门",
+   "text": "伤门不可说，夫妻主灾迍，疮病行不得，折损血财牲，天穴人枉死，经年有病人，商音信难得，馀事不堪陈。\n问曰：伤门属木，正值春分之时，嫩甲发生，当以吉看，反以凶论，请问其详？\n衢仙答曰：「伤门之木，正值春分之气，精液自内而发扬于外，以致根本泄之太过，所谓以外华而内虚，而不能胜其劳。况二月中嫩甲不能当霜露之寒，因谓之伤，所 以凶也。伤门得奇，惟宜捕捉逃亡盗贼、渔猎、索债、赌戏等事则吉。若上官、出行、嫁娶、商贾、修造、埋葬皆不利，大凶」。\n伤门出者，三十里见人争鬪，见渔人或畜争鬪，敌宜避之，大吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "text": "杜门原是木，犯者灾祸频，亥卯未年月，遭入狱迍生，生死离别事，六畜也多瘟，跌打见脓血，祸害及子孙。\n问曰：杜门阳木，夏冬繁盛之时，本为旺气，何以凶论？\n衢仙答曰：杜门阳木，时值夏冬，发生于外，而津液已泄，阳气亢极，一阴将至，木性至此而力屈，欲收敛而不能收敛，欲生旺而力已尽，又不泄其力以实其子，而待阴伏藏其子于坚密之处，恐有伤于子，故谓之杜门，小凶。\n杜门为藏形之方，为宜躲灾避难，塞穴、捕捉则吉，馀事皆不利。\n杜门出三十里逢少女同行歌唱，六十里逢恶人。乙奇临，见少妇著色衣；丙奇临，见火光烧屋或烽火之物；丁奇临，见人骑马带弓弩。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "text": "景门主血光，官符卖田庄，祸灾应多有，子孙受苦殃，外凶并恶死，六畜也见伤，生离与死别，占者须堤防。\n问曰：景门属火，南方夏令，正值阳明之域，何以为凶也？\n衢仙答曰：景门夏令之气，万物壮盛，将老之时，与死门坤宫相近，又为阳之盛气，天数至此时，将有杀物之情，虽主上明下亮之方，亦不全吉。惟利文书之事，因为次吉。\n景门用事，惟宜上书、献策、奏对、选拔将士，吉，馀者不利。坤、艮、中宫吉，三、四宫平之，一宫迫吟，六、七宫迫宫，大凶。若得三奇，又宜于设计行诈、破阵、火攻、号令、封功、赏爵等事。\n景门出三十里外，赤纹大蛇，七十里外，因水火失物。若强有作为，主东家长及小口。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "text": "元死之方最为凶，人命逢之祸不轻，犯者平平财产退，更防孝服死人丁。\n问曰：死门属土，又系黑星，分夜之方，秋冬之气，天地肃杀，自此而始彰，门凶星凶，当弃之而不用，不知此门宁可用之？\n衢仙答曰：死门之凶，天地令行，大肆肃杀之威，草柳色变，木逢叶落，故为凶象。若得奇相助，而吊死刑、捕捉、畋猎之事，有得吉者，顺天之序而然也，不可弃。\n死门出者，二十里逢病人，三十里逢孝服、血光事，虽有三奇，亦不吉。丙奇临，逢抱文书；乙奇临，见丧葬祭物或纸扎物；丁奇临，逢少妇孝服、哭泣。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "text": "惊门主争讼，瘟疫死人丁，辰年并花月，非祸进门庭。惟宜词讼事、捕捉、博戏吉，馀皆凶。\n问曰：惊门属金，值八月秋令，万物俱老，天地大示肃杀之威，亦可弃乎？\n衢仙答曰：惊门气肃，物数苍老，本无生气，固凶。但天地存好生之心，不欲杀尽，而生蒜麦，亦不得已而杀也。此门虽凶，若谀词、献诈、捕捉、设疑、伏兵皆吉，亦不可弃。\n惊门出者，三十里逢群鸟雀噪，六畜相鬪，四十里见人争打则吉，若无，七十里必有折损之凶，不可前往。",
+   "docPath": "qmmj/book/juan05.md"
+  }
+ ],
+ "menYing": [
+  {
+   "gate": "开门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主贵人、宝物、财喜。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主见贵人、财喜，更主开张铺店，贸易大利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主见贵人、谋望，所求皆遂。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主变动，更改、移徙事皆不吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "失脱刊印书契小凶。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主见贵人，因文书事不利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主官司惊忧，先忧后喜。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主百事不利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "财名俱得。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "小财可求。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "贵人印绶。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "远信必至。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "事绪不定。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "道路词讼，谋为两歧。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "阴人道路。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "远行有失。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "阴人失财，小凶。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "动",
+   "text": "六里、十六里见贵人及鬪打者为应。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "动",
+   "text": "一里、十一里逢四足畜物相鬪，妇人著皂衣及文人言功名事。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢阴人并四足物或阳人言争产财帛事。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢妇人车马随人弄火。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢阳人急唱或僧道为应。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢贵人骑马或抱文书为应。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢老人啼哭或开土埋葬为应。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "开门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "动",
+   "text": "七里、十七里逢兄妹同行为应。\n占身命：金水命者吉利，土命平稳，火木二命主官司、疾病、破财不利。\n又歌云：「见官得理，作事欣然，觅人得见，大利上官，求财必遂，病人易安，出行合伴，行人将还，贸易开张，移徙欣然，谒贵利济，造作获安，百事悉吉，无不洞然」。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "求财、进人口、谒贵吉。朝见、上官修，大利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主得阴人财物并干贵，谋望迟应吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主上官喜庆，求财不得，有亲故分产变动事，不吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主破财，失物难寻。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主求望、文书印信事不至，反招口舌，小凶。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主求文书印信、官司事，或僧道远行事，不吉。占病，凶。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主损财招益，并疾病惊恐事，破财不利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主开张店肆及见贵、求财、喜庆事，大吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "财物和合。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "谋重不得，求轻得。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "文书、和合、喜庆。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "百讼休息。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "暗昧不寍，后吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "文书词讼，后和解。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "疾病遟愈，失物不得。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "阴人词讼牵连。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "阴人词讼牵连。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "动",
+   "text": "一里、十一里逢青衣夫妇歌唱为应。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢妇人下黑土黄，或皂衣公吏人。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢匠人拿木棍，或皂衣公吏人。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢青衣妇人引孩童行唱。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢皂衣公吏人骑骡马。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢孝服人哭泣，更有绿衣人相伴。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "动",
+   "text": "七里、十七里逢皂衣人打足，妇人引孩童。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "休门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "动",
+   "text": "六里、十六里逢人打架、叹气，畜物鬪敌。\n占身命：木命者大利，金命者脱耗，土命者灾疾，火命者大凶。丙、丁、戊、己、巳、午、辰、戌、丑、未年月日时者，不利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主远行、求财产吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主亲友变动道路不吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主阴谋，阴人破财，不利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主主阴人、小口不寍及文书事后吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主田宅官司主难救。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主尊长财产词讼及病缠迟愈吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主见贵人，求财大发。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主阴人处求望财利吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主嫁娶、求财、谒贵皆吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主阴人生产迟，吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主贵人、印绶、婚姻、书信、喜事。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主词讼、婚姻、财利、出行，大吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主得贵人维持，吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主财产争讼，破产失，不利。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主官事、产妇疾病，后吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主遗失财后得，贼盗易获。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主婚姻不成，馀事皆吉。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢朱衣贵人。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢公吏人持棍，或培土、栽树。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢人拿彩色物行唱，并长叹息者。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢贵人车马，多人相随。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "生门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢孝服人哭泣。\n加惊；七里、十七里逢人赶畜及有人说词讼事。\n加开；六里、十六里逢贵人车马，并有蛇咬猪者。\n加休；一里、十一里逢皂衣及扛钱人。\n占身命：火土金命者，大利。水木命者，不利，多厄难。忌甲乙寅卯年月日时者，不利。若壬癸命主肿胀凶。",
+   "docPath": "qmmj/book/juan04.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主变动，远行皆折伤，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主变动、失脱、官司、桎梏，百事凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主文书、印信、口舌、动挠、啾喞。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主官司、印信，凶。出行，大忌。占病，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主亲人疾病忧惧，谋伐不利，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主贵人，开张有走失变动之事，不利。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主阳人变动，或托人谋干财名不利。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "原文缺",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主失脱难获。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主求谋不得，反防盗失财。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主道路损失。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主音信不的。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主财散人病。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主讼狱被刑杖，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主夫妻怀私、恣怨。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主因盗牵连。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主讼狱被冤，有理难伸。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢二车塞道争行。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢公吏人及木匠伐树，并有妇人抱小儿过。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢色衣人骑骡马过。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢埋葬及孝服人哭泣。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "动",
+   "text": "七里、十七里逢人鬪打并赶畜，有妇人与少女同行。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "动",
+   "text": "六里、十六里逢人拆墙、安门、解板，或二猪相咬。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "动",
+   "text": "一里、十一里逢老妇与少男同行。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "伤门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢人伐树或培土。\n占身命：水火木命者吉，金命者主病，土命者凶，官司、刑杖。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主因父母疾病、田宅出脱事，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主文书印信阻隔，阳人、小口疾病，迟疑不利。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主田宅；文书失落，官司破财，小凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主门户内忧疑惊恐，并有词讼事。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主见贵人、官长，谋事主先破己财后吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主求财有益。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主阳人小口破财，及田宅求财不成。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主兄弟相争，田产破财。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主谋事不成，密处求财得。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主宜暗求阳人财物，后主不明至讼。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主文契遗失。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主阳人讼狱。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主私谋害人招非。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主因女人讼狱被刑。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主打伤人词讼，阳人、小口凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主奸盗事，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主百事皆阻，病者不食。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢妇人引孙儿著绿衣。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢孕妇著色衣，或公吏人骑赤马。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢丧服人哭泣。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "动",
+   "text": "七里、十七里逢歌唱锣鼓声，或人言公讼事。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "动",
+   "text": "六里、十六里逢歌唱及犬咬猪。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "动",
+   "text": "一里、十一里逢唱戏或皂衣妇人抱孩儿。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢人扛钱，或手拿食物并唱词。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "杜门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢木匠拿木棍。\n占身命：火命者发贵，水命者发富，木命者平稳，金命者疾病，土命者官司凶。若金年月日时，或土命年月日时者不利，如逢水火年月日时吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主文状未动，有预先见之意，内有阳人小口忧患。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主官讼，因田宅事争，多啾唧。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主阳人、小口疾病事，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主官人升迁吉，求文印更吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主文书遗失，争讼不休。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主阴人生产大喜，更主求财旺利，行人皆吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主姻亲眷小口角，或嫌隙挠乱。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主失脱文书，散财后平。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主因财产词讼，远行吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主讼事不成。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主文书急迫，火速不利。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主因文书、印状招非。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主官事牵连。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主讼人自讼。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主阴人词讼。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主因贼牵连。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主因奴婢致祸。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢人抱文书，更有火光惊恐。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢丧服人哭泣，色衣人骑马。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "动",
+   "text": "七里、十七里逢争讼斗打，宜避之。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "动",
+   "text": "六里、十六里逢人成队行，官人骑马。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "动",
+   "text": "一里、十一里逢女人哭泣与卖鱼人并行。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢小儿赶牛，人背钱以袋装之。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢色衣女人坐车轿或乘骡马。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "景门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢老少妇领黑衣童子行。\n占身命：主火灾。水命者大凶，金命者疾病，木命者中平，土命者富。若值金水年月日时者，不利。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主官司而留，印信无气，凶。加死：主官司动而被刑杖，凶？",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主因官司不给，忧疑、患病，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主见贵人，求印信、文书事，大利。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主求财物事不吉，若问僧道求方吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主丧事，求财得。占病，死者复生。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "原文缺",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "原文缺",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主主因文契、印信、财产事见官，先怒后喜，不凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主作伪财。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主求事不成。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主信息忧疑。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主老阳人疾病。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主病讼牵连不已，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主女人生产，子母俱凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主盗贼，失脱难获。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主讼人自讼、自招。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主嫁娶；妇女事凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢妇人哭泣，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "动",
+   "text": "七里、十七里逢丧哭泣，或死畜物类。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "动",
+   "text": "六里、十六里逢开坟、哭泣，或畜鬪伤。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "动",
+   "text": "一里、十一里逢青衣妇人哭泣。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢孝子拿生物大恸。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢人抬棺椁。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢埋葬及纸扎彩色物。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "死门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢重孝人哭泣，退吉进凶。\n占身命：主有孝服、病死之凶。水木命并年月日时者，大凶。馀平。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主疾病、忧虑、惊疑。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主忧疑、官司、惊恐，又主上见喜，不凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主求财事， 或因口舌、求财事，迟吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主因妇人生忧惊，或因求财生忧惊，皆吉。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主因商议同谋害人事泄，惹讼，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主因失脱破财、惊恐，不凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主词讼不息及小口疾病。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "静",
+   "text": "主因宅中怪异而生是非，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "甲戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主损财、信阻。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "乙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主谋财不得。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "丙",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主文书印信惊恐。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "丁",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主词讼牵连。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "戊",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主因田宅致讼。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "己",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主恶犬伤人成讼。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "庚",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主道路损折、贼盗，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "辛",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主女人成讼，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "壬",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主官司囚禁。病者，大凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "癸",
+   "kind": "奇仪",
+   "mode": "静",
+   "text": "主被盗贼，失物不获。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "惊门",
+   "kind": "门",
+   "mode": "动",
+   "text": "七里、十七里逢二女吵闹，旁人说打官司。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "开门",
+   "kind": "门",
+   "mode": "动",
+   "text": "六里、十六里逢官吏、役人争讼。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "休门",
+   "kind": "门",
+   "mode": "动",
+   "text": "一里、十一里逢青衣妇人说官司。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "生门",
+   "kind": "门",
+   "mode": "动",
+   "text": "八里、十八里逢女人引童子赶牛，小儿拿吃物。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "伤门",
+   "kind": "门",
+   "mode": "动",
+   "text": "三里、十三里逢男女吵闹、打孩子，宜退回。\n若强行，主车折马死，凶。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "杜门",
+   "kind": "门",
+   "mode": "动",
+   "text": "四里、十四里逢僧道同行，或男女相商。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "景门",
+   "kind": "门",
+   "mode": "动",
+   "text": "九里、十九里逢色衣妇人说官司。",
+   "docPath": "qmmj/book/juan05.md"
+  },
+  {
+   "gate": "惊门",
+   "on": "死门",
+   "kind": "门",
+   "mode": "动",
+   "text": "二里、十二里逢女人哭泣及丧亡者。\n占身命：主词讼、官灾、口舌、血光之事。若值丙丁巳午年月日时，占者，凶；甲乙寅卯年月日时占者，亦不利。\n五假法\n天假：景门合乙丙丁三奇，下临地盘九天宫者，名曰「天假」。乙为天德，丙为天威，丁为太阴，凡三奇之灵，宜陈事、利便、进谒、乾求之事，大吉。\n地假：杜门合丁己癸，下临地盘九地宫者，名曰「地假」；宜潜藏、埋伏，此三时宜遁迹藏形。\n地假：伤门合丁己癸，下临地盘太阴宫者，亦名「地假」；宜遣人、行间谍、谋探私事。又如六合宫，亦名「地假」，宜逃亡、躲灾、避难。\n神假：伤门合丁己癸，下临地盘九地宫者，名曰「神假」，利埋葬。伏藏，人不能知也。\n人假：惊门合六合一作六壬，下临地盘九天宫者，名曰「人假」，利捕捉逃亡。若太白入荧惑在其下，必获。\n鬼假：死门合丁己癸，下临地盘九地宫者，名曰「鬼假」，利超亡、荐度。一作临「三隐宫」，疑即地盘之三吉门也？三隐宫太阴、六合、九地。\n三诈法\n凡事宜开、休、生三吉门，即不得乙丙丁三奇亦吉。又取阴神相助，谓之三诈，有地盘九地、太阴、六合三神助奇，谓之「阳门得助」，再得地盘吉门相助者，全吉。\n若开、休、生三吉门合乙丙丁三奇，无地盘太阴、六合、九地者，谓之有门无遁，阳有奇无阴，凡事有七分之利。\n开休生三吉门合三奇，下临地盘太阴之宫者，再得吉门，此吉门当作吉星相助，谓之「真诈」，利施恩、隐遁、祈祷、求仙，吉。\n开休生合三奇，下临地盘六合宫者，再得吉门相助，谓之「休诈」，宜合药、法符、祈神、禳灾、祭祀，皆大吉。\n开休生合三奇，下临地盘九地宫者，再得吉门相助，谓之「重诈」，宜收降、添兵、进人口、纳财、袭爵、拜绶，皆吉。\n以上诈门，凡事远行、商贾、嫁娶，百事大吉。",
+   "docPath": "qmmj/book/juan05.md"
+  }
+ ],
+ "xingZong": [
+  {
+   "star": "天蓬",
+   "text": "讼庭争竞遇天蓬，胜捷名威万里同，春夏用之皆大吉，秋冬用之半为凶；\n嫁娶远行皆不利，修造埋葬亦闲空，须得生门同丙乙，用之万事得昌隆。\n天蓬值子时，主有鸡鸣犬吠、宿鸟闹林，或有鸟自北方争闹飞来。作用后缺唇人至，六十日后应鸡生肉卵，主口舌官讼，退财凶。\n值丑时，主树倒伤人、有雷电大作，及风雨为应。作用后主七日内鷄生鹅卵、犬上房，百日内伤小口，白头老人作牙，进田产、大旺十年后主退败。\n值寅时，主青衣童子持花来，北方和尚裹衣至，又主女人来为应。作用后主有贼劫家财，六十日蛇入屋咬人，牛马死，伤人口，三年后进田宅。\n值卯时，主黄云四起、妇人拿把铁器前来、大蛇过路为应。作用后半月有徵音人送财物来，六十日内女人被贼害破财，百日内得横财大发。\n值辰时，主东北树倒伤人、鼓声四起、女人著红衣至为应。作用后主鹊噪，鸦鹊绕屋，贼入盗财物，六十日内病脚人上门抵赖，三年内生贵子发福。\n值巳时，主驼背人著毛衣，女子携酒至及师人来为应。作用后百日内，因大发横财，因武得官发达。\n值午时，主有人持刀上山，妇人领青衣童子至为应，作用后四十日家主亡，六十日犬作人语入屋作怪，风脚人行凶、破财，三年发旺。\n值未时，主童子赶马牛至，鹭鸶自北方飞来，女人著红衣至为应，作用后六十日内贼入屋，劫掠财物凶败。\n值申时，主有取水人并持伞盖至，西方小儿打水、擂鼓、叫喊为应。作用后二十日鷄窝内有蛇伤物，百日内少妇自缢、为淫欲，起官司凶败。\n值酉时，主西方有马行来，群鸦飞噪为应。作用后百日内生贵子，僧道作牙、进商音人财产大发。\n值戌时，主老人持杖至，胡须人担箩筐至，西方雷雨至为应。作用后有白犬自来，八十日内拾军器得横财发大富。\n值亥时，小儿成群至，女人著孝服为应。作用后六十日因捉贼得钱榖，三年内卖药及符咒水发财。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "star": "天芮",
+   "text": "天芮授道结交宜，行方值之最不吉，出行用事皆宜退，修造安茔祸难测；\n贼盗惊惶忧小口，更有官事被官责，纵得奇门从此位，求其吉事皆虚为。\n天芮值子时，秋、冬用吉，春、夏用凶。有飞禽战惊，西南方上火光，二人相逐为应。作用后主猫犬疯癞伤人，惹官事，六十日内有女人自缢死，秋冬用之当进羽音财产发旺及妇人喜事吉。\n值丑时，有鼓声自西北至。七日内主龟鳖自林中来，六十日主盗贼官司破财凶。\n值寅时，主瘦妇怀孕至，夏秋主披蓑衣人至，春著皮衣人来为应。作用后如得奇门旺相，六十日内牛入屋，进血财，财官禄至，子孙兴旺大发。\n值卯时，主女人著色衣送物，及贵人骑马来，二犬相咬，牛鸣为应。作用后六十日进东方人财产，犬伤小儿、进血产，三年内妇人产难凶。\n值辰时，有东北方树倒伤人、鼓乐鸣、女人著红衣至为应。鹊绕屋飞鸣，因贼破财，作用后六十日有疯脚人上门赖，婚后生贵子、发旺。\n值巳时，有妇人少女同至为应。作用后四十日进绝户田契，一年因水大发财。\n值午时，有缺唇白衣人至，孕妇过为应。作用后六十日猫咬人，因买卖大发财，得东邻产业大发。\n值未时，有捕猎人至，白衣僧道携茶过为应，作用后七日有乌鹊绕屋树鸣噪，一年内动瘟广，火烧屋荡败。\n值申时，主东方伞盖人过，僧道胡须人至为应，主牛马伤人、犬咬人。作用后一百日内进羽音人产业，一年内水牛入屋、野鸟进宅，家主疾病。\n值酉时，主有西方马过，群鸟鸣飞为应。作用后百日内僧道作牙，进商音人产财，生贵子发旺。\n值戌时，有老人扶杖至，西方雷雨，胡须人担物来为应。后有白犬自来，六十日拾军器得横财大发。\n值亥时，有小儿成群，妇人著孝服至为应。后六十日因贼得财，三年后因符水、药剂发财。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "star": "天冲",
+   "text": "嫁娶安茔产女惊，出行移徙遇灾迍，修造葬埋皆不利，万般作为且逡巡。\n天冲值子时，主仙禽鸣噪、钟声为应。作用后有生气入宅，一年田蚕倍收，新妇亡后，因口舌得财。\n值丑时，主云雾四合，小儿成队及妇人至为应。作用后黑猫生白子，拾得古镜发财，一年内得僧道、田契、生贵子。\n值寅时，主贵人乘轿马及执金银器至为应。作用后六十日进文契、六畜，并琉璃器物入宅，母鷄啼、家主有灾，因口舌得财，乙己丁生者发富贵。\n值卯时，主女人穿色衣送物，及贵人骑马至、二犬嘶咬、又主牛鸣为应。作用后六十日进东方人产业，汤火伤小儿、进财，三年内妇人产难凶。\n值辰时，有鱼上树、白虎出山、僧道成伙至为应。作用后四十日内拾得黄白之物发横财，七十日内家主有折伤之患。\n值巳时，主牛羊争行、二女嘶骂、西方有鼓声为应。作用后六十日内蛇咬鷄、牛入屋、女人送文契，百日内生贵子大发。\n值午时，主有东方人家火起，白衣人叫喊，山鸟鸣噪为应，作用后六十日内拾得古铜器物发财产。\n值未时，有鼓声响、小儿著孝衣，牛马成群过，西北人喊叫为应。作用后六十日内白羊入屋，发横财，六畜兴旺。\n值申时，主南方白衣人骑马过，吏卒争鬪为应。作用后一百日内女人作牙，添进人口，发财产。\n值酉时，有远方书信至，东方人家说狐狸，有人喊叫，妇人掌火为应。作用后三年内生贵子，横发富贵。\n值戌时，西方有三、五人来寻物，及师巫人对走为应。作用后六十日鷄鸣上树、远信至、得外人财，一年内小儿被牛踏伤。\n值亥时，有跛足青衣人至，东方人家起火为应。作用后一百日内猫捕白鼠，一年内得财，进人家田契。",
+   "docPath": "qmmj/book/juan02.md"
+  },
+  {
+   "star": "天辅",
+   "text": "天辅之星远行良，修造埋葬福绵长，上官移徙皆吉利，喜溢人财百事昌。\n天辅值子时，主西方著红衣大叫前来为应。作用后六十日进商音人财物、猴入室、宝瓶鸣，主加官进职、生贵子，十二年兴旺吉。\n原文缺值丑时，作用时主东方有犬吠，有人持刀杀人鬪叫。造葬后有白兔野鷄入室，六十日内僧道送物，及东南方羽音人送文契至、远行信归、周年添进人口、大旺血财、加官进禄。《遁甲演义》\n值寅时，有公吏人持铁器至，及艺人送物来为应。六十日内进田契，十一年生贵子大发。\n值卯时，有女人持伞至，及师巫吹角声为应。六十日内发财、添丁，有生气物，家旺财榖，因女人公事进田地财产。\n值辰时，白羊与黄犬相鬪，卖菜人与卖油人相撞，白衣小儿啼哭、孕妇至为应。一年内生贵子，财产大发。\n值巳时，有二人相打，女人抱布衣，风四起、小儿啼哭。六十日进东财产，鬼神运来大发。\n值午时，有僧拿物，女人著红衣过为应。六十日有贵人送异物，进四方金银，一年内得寡妇财产大发。\n值未时，主二畜相触，有人携皮毛至，僧道成群过为应。作用后西北方人争财，百日内进财物、文契。\n值申时，有患足人携酒至，三色衣人来，西北方鼓声鸣为应。作用后半年内蛇从井中出，白衣人送牛羊至，得妇人财发。\n值酉时，主有远方人书信至，东方人言狐狸或有人喊叫为应，女人拿火至，后三年内生贵子，横发财产。\n值戌时，主有三、五人来寻物，师巫对行为应，六十日鷄上树鸣、远信至、得妇人财，小儿被牛伤，一年内验之。\n值亥时，主有跛足人至，青衣人来，东北方人家火光为应。作用后百日内猫捕白鼠，一年内进田产。",
+   "docPath": "qmmj/book/juan03.md"
+  },
+  {
+   "star": "天禽",
+   "text": "天禽远行偏得利，坐贾行商皆称意，投谒贵人俱益怀，修造埋葬都丰裕。\n天禽值子时，主有孕妇来，紫衣人至为应。作用后五十日有文人送物，三年内因武得官，二十年外财榖广益，人丁千口财旺。\n值丑时，主孝妇拿锡器来，小儿拍掌、吹哨、打鼓、喊叫为应。作用后因赌戏得财，或开窖得财，三年内得盗贼财，发家致富。\n值寅时，主鷄鸣犬吠，道人戴棕笠至为应。作用后进羽音人田契、人丁发旺。\n值卯时，主有大风东起、禽鸟四叫、孕妇至为应。作用后半年内得横财起家。\n值辰时，主九流人相争叫，东方乌鸦鸣为应。作用后六十日有僧道及孤独人送物来。\n值巳时，主有白项鸦成群飞来，及师巫相打，贵人骑马过为应。作用后七十日内主妇人生贵子，成家，田产大旺。\n值午时，主有白衣女人至，狗衔花、山鷄鬪，风雨至为应。作用后有人自来，因赌戏公事得财，黑鸡生白雏，田产发旺。\n值未时，主有老年跛足担花过，或青衣人携物至为应。作用后六十日内进羽音人、铁器，发旺。\n值申时，主空中飞鸟啼，师巫拿纸物来为应。作用后百日内女人拾珠翠归，一年内生贵子起家。\n值酉时，主西方火起、人家吵嚷、鼓声喧闹为应。作用后一年内生贵子，发旺。\n值戌时，主东北方有钟鼓声，青衣童子携篮至为应。作用后六十日内白鼠来，得寡妇财物发达。\n值亥时，主有西北方妇人笑声，大起狂风，折树毁屋，人喊叫为应。作用后百日内进铁匠器物及僧道产。",
+   "docPath": "qmmj/book/juan03.md"
+  },
+  {
+   "star": "天心",
+   "text": "天心求仙合药当，商途客旅财禄昌，更将迁葬皆吉利，万事欣逢尽高强。\n天心值子时，主有人争鬪，鼓声西北起为应。作用后九十日内有赤面人作牙，进商音人古铜画轴，十二年田蚕发旺。\n值丑时，主西南方有火光，跛足人送物至，五日内双猫自来为应。作用后四十日有远方人送物，进商音人财产、文契。\n值寅时，主有水鸟至，钟鼓鸣，青衣女子提篮至为应。作用后火烧小口，六十日有公事，百日进金银，拾古器，进人口产业，三年因妻得财、生贵子。\n值卯时，主有跛足妇人相打，犬吠及鼓声，北方轿至为应。作用后七日内进财物，三年内有牛马来，财禄大旺。\n值辰时，主云从西北起，青衣人拿鱼至，女人与僧道同行为应。作用后井中气出如云，三日内生贵子，后主科第富贵。\n值巳时，主有女人抱小儿至，紫衣人骑马过为应，龟上树。作用后半月内进远方人财，跛足人作牙、进田契、六畜旺，女人治家，寡妇坐堂。\n值午时，主有风雨骤至，蛇横路，女人著红裙提酒至为应。作用后六十日内有跛足人送活物，五年内横发财产。\n值未时，主有法术人拿空器过，白衣老人至为应。作用后得商音姓人文契，田宅发富。\n值申时，主有僧道来，金鼓四鸣，百鸟齐嗓，红裙女人送酒为应。作用后三年内寡妇持家。\n值酉时，主僧尼道姑拿火自西南来，北方钟鼓声为应。作用后七十日内得马牛，得官府财，远信至。\n值戌时，主南方喊叫有贼，小儿牵牛至为应。作用后百日内生贵子，金鷄石上鸣，无故犬吠，二年后中科第。\n值亥时，主鷄鸣犬吠，老人著皮衣帽至，手拿铁器为应。作用后七日内有远人来借宿，遗下财物而去。",
+   "docPath": "qmmj/book/juan03.md"
+  },
+  {
+   "star": "天柱",
+   "text": "天柱藏形谨守宜，不须远行及营为，商贾百事皆不利，动作立刻见凶危。\n天柱值子时，主有风雨，火从东方起，缺唇人至为应。作用后六十日内蛇犬咬人，刀刃伤人、见血光、破财。\n值丑时，主有北方木匠拿斧，树上生金花为应。作用后六十日进羽音人金银器，三年内火灾，主败家产，出人弄蛇戏犬。\n值寅时，主牛马喧，僧道拿伞盖至，有雷雨，喜鹊噪为应。作用后主贼人牵连，官讼破财，女人小产死凶。\n值卯时，主有人伐树，男人拿鼓，黄衣老人拿锄镰过为应。作用后六十日内母鸡犬上屋，一年内少妇死凶。\n值辰时，主有人自西方拿金器来为应。作用后七日内进阴人财物，三年内大发。\n值巳时，主有黑牛拉车，猪上山、钟鼓声鸣为应。作用后二十日内进商音姓人财物，六十日内有女人下水，野物入宅，一年内生贵子，大发之兆。\n值午时，主有人骑马至，冬月有雪，夏秋有鸦飞鸣为应。作用后五日内孕妇带疾行孝服哭泣，六十日内水边得古铜器，退财小口凶。\n值未时，主有女人与僧道同行，东北方人携伞盖骑马为应。作用后因女人见狐狸退败大凶。\n值申时，主有鹰捕鸟落地，及青衣人携伞盖至为应。作用后三年内大火焚宅，家业大败。\n值酉时，主东方有大小车连络数十辆行为应。作用后七十日内得女人首饰发财。\n值戌时，主有女人抱白布物至，西北方有鼓声为应。作用后东北方树打人喊叫，后六十日蛇蝎伤人，瘟疫死，大败凶。\n值亥时，主西方有钟声为应，山下人喊叫，作用后百日内，因救火得财大利。",
+   "docPath": "qmmj/book/juan03.md"
+  },
+  {
+   "star": "天任",
+   "text": "天任吉宿事皆通，祭祀求官嫁娶同，斩绝妖蛇移徙事，商贾造葬喜重重。\n天任值子时，主有风雨至，水畔鷄鸣，东南方有人带刀过为应。作用后百日内，主妇人离异，水姓人上门抵赖、退田产，后出人男盗女娼凶。\n值丑时，主青衣妇人提酒至，西方鼓声为应。作用后半年内进异方财物，一年内鹦鹉入宅，因口舌得财，三年后猫犬相咬，主发科吉。\n值寅时，主女人成对至或拿火来，童子拍手大笑为应。作用后六十日内，甑鸣，老翁死，百日内进六畜、女人，财宝自来，田蚕发，后因缺唇人争，婚姻事败。\n值卯时，主有老人持杖至，喜鹊鸣造为应。作用后七日内有人送铜铁器物，六十日内因女人得进六畜，赌博赢，官禄至吉。\n值辰时，主有白衣男女同行，或孕妇抱小儿为应。作用后有人送活物至，大吉。\n值巳时，主有二犬相争，野人负薪，吏人拿伞过为应。作用后六十日得外方人财物，南方人送鱼至，一年内生贵子，发富贵吉。\n值午时，主西方黄色禽鸟飞来，僧道与儒士同行为应。作用后四十日得贵人财宝，紫衣人进宅，生贵子吉。\n值未时，主有白鸟自西南方飞来，北方钟鼓声为应，风雨至。作用后七日，外女人送白衣物或白纸物来，主六畜兴旺。\n值申时，主大风雨陡至，人打鼓，僧道著黄衣为应。作用后七日内，女人被火烧，荡败凶。\n值酉时，主僧道尼姑持火自西南方来，北方钟鼓声为应。作用后七十日内得官员财物，进牛马，喜信至，大吉，钱财丰美大利。\n值戌时，主有女人抱布来，西北方鼓声，北方树木伤人为应。作用后六十日内蛇咬人，凶。若有老人与小儿同至，即解祸为福。\n值亥时，主西方磬鸣，人拿火喊叫为应。作用后一年内因救火得财大利。",
+   "docPath": "qmmj/book/juan03.md"
+  },
+  {
+   "star": "天英",
+   "text": "天英之星嫁娶凶，远行移徙不宜逢，上官商贾凶败死，造作求财一场空。\n天英值子时，主有锣声自西北来，三、五人掌火伐木为应。作用后一年内主有残病人抵赖破家，三年内自刎、小儿因汤火灾伤。\n值丑时，主东北方师巫僧道至，锣声鸣为应。作用后一月内火烧房屋，一年内犬作人言，百怪俱见，死亡大败凶。\n值寅时，主东方有兵马来，及捕鱼人持网过为应。作用后女人路上拾得财物，六十日内进寡妇田产，龙雷折屋凶。\n值卯时，主有提灯笼过或持米来，雷鸣为应。作用后应六十日内进女人财宝发家。\n值辰时，主西北方女人携物来，鷄上树为应。作用后人七十日，野物进宅，大发财产。\n值巳时，主有人抱文书、持伞盖至，或抱锡磁器为应。作用后六十日内得异姓人财产，南方人送活物来，一年内生贵子，发达。\n值午时，主有人自南方来，著红衣或骑马持文书至为应。作用后六十日内被木石打死，及自缢、人命官司凶。\n值未时，主有怀孕妇过，西北方鼓声为应。作用后九十日内家主淹死，一年内瘟疫大败。\n值申时，主有孕妇哭泣，西方钟鼓声，僧道拿物过为应。作用后七十日内大凶。\n值酉时，主西方有人吵闹、鸟鹊鸣噪、白衣女人过为应。作用后主小口、女人足疾，百日内因唇舌得财。\n值戌时，主有女人持瓦器或铁物怒骂为应。作用后百日内因词讼破财。\n值亥时，主有女人掌火来为应。作用后有疯癞人上门抵赖，身死破财。",
+   "docPath": "qmmj/book/juan03.md"
+  }
+ ],
+ "xingShi": [
+  {
+   "star": "天蓬",
+   "hourZhi": "子",
+   "text": "值子入宅凶，赴任、安营、斗讼，生鸡犬吠鸟闹林，北方鹏争缺唇人，六十日内鸡生卵，退财时至讼必胜。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "子",
+   "text": "值子身旺兴，作用之时主走禽惊，坤方火光二人应，嫁娶猪犬伤人讼，六十日内女自缢，秋冬进财羽音珍。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "子",
+   "text": "值子有风雨、禽噪、钟鸣，造葬后六十日内怪物入，周年田产数倍收，更防新妇产后死，虎狼口内可得财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "子",
+   "text": "值子若反吟，天中有物夜中鸣，西方红白人叫应，造葬后来六十日，得进商音人产物，野猿入屋甑鸣时，加官进禄生贵子，若得门奇并到来，十二年中大旺矣。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "子",
+   "text": "值子孕妇至、紫衣人来，造葬后六十日鸡犬衔花，儒人馈物武得官，田土财榖进益旺，二十年后人千丁。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "子",
+   "text": "值子人争鬪，西北鼓声闹喧喧，用后百日赤人媒，商人古器画仙家，生白鸡，十二年田蚕大旺，诸公连连。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "子",
+   "text": "值子起大风，火从东至缺唇人，用后六十日内事，蛇犬伤人逢刀刃，杀人血光财破散，幼女遭殃必定临。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "子",
+   "text": "值子东风雨，水畔鷄鸣为应验，巽方人来持刀枪，造葬百日新妇离，三牙须人木姓至，由赖退产男女淫。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "子",
+   "text": "值子乾锣声，三五人持火把焚，斧钺伐木缺唇人，用后破家三年中，血光自刎伤人物，小儿至汤火坑中。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "丑",
+   "text": "值丑雷电生，树倒伤人被风雨，七日鷄生鹅子卵，犬至屋上小口倾，三年后有白头牙，商进屋旺十年退。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "丑",
+   "text": "值丑作用时，乾地金鼓声至此，造葬后七日龟出林，六十日内盗贼起，退财口舌官讼至，大姑屡次索奁礼。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "丑",
+   "text": "值丑云雾昏，小儿成队来上门，妇人执木至为应，乌猫白子拾古镜，周年僧道进田契，发财生得贵子聪。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "丑",
+   "text": "值丑东方犬吠，有人持刀来战对，用后白兔野鷄入，六十日内僧道馈，羽音巽来信契归，周年添丁加官品。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "丑",
+   "text": "值丑孝妇来，手持锡器为葬埋，小儿吹笛笑拍手，鼓闹后进赌博财，获得宝诰年后拾，得贼财富旺皆来。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "丑",
+   "text": "值丑作用时，南方火光跛足人，五日内有猫成双，四十日内远物至，商音进书并财帛，官中更出有寿人。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "丑",
+   "text": "值丑匠北来，手携斧斤树上材，生得金花为后应，造葬六十日进财，羽音金器三年后，火光如洗人弄蛇。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "丑",
+   "text": "值丑妇青衣，携酒必然有跛声，半载后进无名财，周年鹦鹉入屋来，口舌得财三年后，猫狗相咬主请举。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "丑",
+   "text": "值丑东北来，师巫鸣锣至此寨，用后一月火烧屋，周年有大作人言，百怪起时可移镇，不然定是死亡连。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "寅",
+   "text": "值寅作用时，青衣童子持花枝，北方僧人包头巾，女人穿著衫裙临，贼劫蛇咬马伤人，三年田地财旺临。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "寅",
+   "text": "值寅瘦孕妇至，蓑衣临门乐器音，奇门旺相六十日，水牛入屋进血财，加官进禄子孙，宿临时乾在刻栽。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "寅",
+   "text": "值寅贵乘轿，童执金银器物到，二十日进角音契，羽音作牙畜玩入，六十母鷄啼主死，阴乾人福发财凶。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "寅",
+   "text": "值寅见公吏，执铁艺携物至，六十日内猫咬鷄，有贼送财报恩义，赤面作牙，羽音，十二年发生贵子。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "寅",
+   "text": "值寅玉犬吠金鷄乱鸣，人带笠，用后六十日便喜，宫商进契添人丁，田蚕大旺享富贵，宿旺立时有应情。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "寅",
+   "text": "值寅白鹭到，金鼓四鸣水镜晓，女穿黄赤携篮过，小口火焰六十交，百日窖金商羽物，三年妻生贵得财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "寅",
+   "text": "值寅北喧闹，僧道持盖雷雨到，喜得钟鼓鸣以后，六十日内贼牵连，争讼破财事已可，女人堕胎产中亡。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "寅",
+   "text": "值寅女家队火把前行，童子拍手，轿马西北来，葬后六十日内甑鸣，坠妇死，百日进畜财田旺，缺唇人争婚败。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "寅",
+   "text": "值寅东方军马，捕猎网鱼手执至，用后女人拾得财，六十日内有暗喜，寡妇送到田地契，百日雷打屋即败。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "卯",
+   "text": "值卯黄云起，妇人烹饪把火至，七日角音相邀请，半月徵音送财礼，六十女人进宝物，百日窖中多见喜。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "卯",
+   "text": "值卯妇人穿红送财物，贵人马至犬争吠，水牛作声这葬后，六十日进东绝屋，二年妇胎堕血死。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "卯",
+   "text": "值卯妇人穿红送财物，贵人马至犬争吠，水牛作声这葬后，六十日进东绝屋，二年妇胎堕血死。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "卯",
+   "text": "值卯女执伞，又有师巫吹角声，用后六十添人丁，必有生气一作怪气大门庭，室女私通得财谷，进田纳契有宝珍。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "卯",
+   "text": "值卯东风起，群鹤四叫分忧喜，怀孕妇人从此过，半年猫犬自来，拾得园内宝窖来，百事逢之皆有理。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "卯",
+   "text": "值卯作用时，跛脚妇人相打期，犬吠鼓噪比东轿，用后七日发旺财，三年有牛来大旺，因军得物人来请。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "卯",
+   "text": "值卯有瘦妇，持刃至此防贼欺，僧道持盖女人骂，六十日有火起时，鸡母昼鸣犬上屋，周岁疫病死绝气。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "卯",
+   "text": "值卯喜鹊噪，老人持杖至此道，七日人进古器物，六十日内六畜宝，女人获财真是发，加官进禄百日好。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "卯",
+   "text": "值卯马东来，捕捉贼人至此栽，网鱼之五前边过，女人行路因得财，六十日进寡妇物，百日雷火屋上襄。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "辰",
+   "text": "东北树倒打人迷，鼓响女穿红衣至，鸟鹊远绕贼劫财，六十日有风人到，后生贵子大发财。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "辰",
+   "text": "东北树倒打人迷，鼓响女穿红衣至，鸟鹊远绕贼劫财，六十日有风人到，后生贵子大发财。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "辰",
+   "text": "鲤鱼上树，白虎出山，僧道成群，用后拾得金银物，家中大发百事成，七旬因主折伤灾，一女一男退回灵。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "辰",
+   "text": "羊犬相撞，卖油人遇卖菓米，白衣童子哭家去，孕妇至此问产期，造后大发财榖旺，一年双生贵孙儿。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "辰",
+   "text": "师巫争，东方鸥鹊鸣为应，雀鹤必定喜临屋，造葬七九之日内，自有道士僧人来，并及绝户产物至。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "辰",
+   "text": "干云起，青衣人手携鱼至，女人同行及僧道，六十井中气如云，出来三日生贵子，及第联登甚有意。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "辰",
+   "text": "人扛树，男子持鼓有引妇，老人携锄一作携锅后六十，乌猫白子鷄双生，北方人进寡妇财，红面人说羽音物。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "辰",
+   "text": "老人临，弟兄相会小不留，禽噪犬吠黄衣过，古器男子获的真，开店人家童手拍，六十日内家畜讼。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "辰",
+   "text": "乾来雨，鷄飞上树是赤尾，女人穿红携篮错，用后七日怪气寓，六十日内进血财，火光临处诚有起。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "巳",
+   "text": "见老人，女人执酒宴忘雄，口舌皆因水上起，百日得火有黄金，周年武职加官禄，猪过必然见蛇形。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "巳",
+   "text": "孕妇至，妓巫为乐著黄衣，乌鹅成群北来过，六十日内见寡妇，猫儿咬鸡真堪怪，牛入草房方可异。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "巳",
+   "text": "牛争鬪，羊乱行时女相并，南方禽喧因坤程，六十日内蛇咬鸡，牛入屋中女送契，田财发生花儿一作犬生花子。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "巳",
+   "text": "人相打，女人抱布有风起，小儿叹叫争家冷，六十日内进震财，鬼神运粮大发达，竹木器物尽置来。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "巳",
+   "text": "鸡鸣至一作鸭成队，师巫术人相打骂，贵人骑马慌忙过，七十日中妇打魔，合生贵子成家业，三年田蚕发苗禾。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "巳",
+   "text": "女穿青，抱得小儿龟上树，紫衣骑马半月后，四方进的畜财属，跛人作牙商音产，三年寡妇成空服。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "巳",
+   "text": "黑牛过，钟鸣猪走入山林，二十日进商音物，六十日女下水池，周年猫捕白鼠至，大发富贵何待时。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "巳",
+   "text": "两犬争，野人负薪至此程，吏役持盖童子拍，六十日获公门财，南方人送鲤鱼至，异路显达贵子排。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "巳",
+   "text": "妇穿红，婚姻事体口舌起，花马过后六十日，拾得猎财血光荣，徵音人进文书至，信炮一声满天烘。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "午",
+   "text": "妇青衣，有人持刀上南山，东北有叹声，六旬犬作人言怪，赤面风疯人家主死，三年内有古窖财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "午",
+   "text": "缺唇人，身著白衣牵黄牛，孕妇过后六十日，猫儿咬人因卖屋，横财获的进田地，后姜奁财多上壁。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "午",
+   "text": "",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "午",
+   "text": "僧持盖，女人穿红家中来，石火光发至后日，六十贵人进异财，西方金银人送至，周年寡妇将物来。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "午",
+   "text": "女白衣，狗衔花枝鷄鬬山，风雨徐徐从东来，造六旬犬吠至，东北人财，一年内鸡生白卵，田苗旺发。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "午",
+   "text": "骤雨来，蛇过路去女红裙，携符酒送武士杯，六十日中釜鸣，有跛足人送生气物，五年进金田庄财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "午",
+   "text": "鸦飞鸣，西方骑马就有云，五日孕妇并丧泣，六十日内水寻神物，古器真是宝，小口伤时在一旬。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "午",
+   "text": "来师尼，西北黄禽君子行，四十日进贵人宝，紫衣入宅生贵孙，孕妇童子来借马，人还虎皮穿黄青。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "午",
+   "text": "婚姻南，采猎渔人执弓弦，用后六十日中事，被木伤人火光炎，自缢落水是公子，乘马必定为女娘。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "未",
+   "text": "童子过，牵的牛儿是两个，鹭飞鹅禽北方来，女人穿红还是青衣，六十日内逢贼劫，破颜惹气至官灾。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "未",
+   "text": "捕猎应，白衣道人携茶瓶，七日乌鸦绕屋噪，赤面须人三牙灵，鬬争周年动瘟疫，火烧屋败又伤人。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "未",
+   "text": "乾鼓响，小儿著孝马成行，西北人叫或争鬪，用后六十日内防，恶人持木克寡母，白羊入屋六畜旺。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "未",
+   "text": "群犬吠，乞丐携著破衣服，众僧道人同议话，西北有人争屋厨，百日内进文书契，商音人送金银馀。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "未",
+   "text": "老人来，跛足人担花果来，青黄衣人携酒至，葬后六十日内裁，羽音人送鸡畜物，铁器原来是宰肉开。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "未",
+   "text": "雾雨来，男子著黄女衣人彩，携酒必定邀尊长，六十日中亦釜鸣，跛足人骑马或坐车，金铜刃器为田程。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "未",
+   "text": "遇瘦妇，僧道同行求安否，东北人马持旗盖，用后百日有怪粕，新媳狐狸缠身边，生铁那火叩头面。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "未",
+   "text": "白鸡飞，禽鸟飞自西南至，北来风雨鼓声闹，用后七日家童张一作一七内女送白物，六九家生白炁异，应得六畜大旺财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "未",
+   "text": "孕妇遇，西方鼓声来相贺，造葬之后六十日，家主落水怎奈何，周年瘟疫身体败，马肥还得母草多。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "申",
+   "text": "人取水，伞笠避雨必有趋，西方小儿打水过，擂鼓叫喊笑声去，一十日鷄窼蛇伤人，妻淫自缢讼事恶。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "申",
+   "text": "东产来一作凉伞，道人一作僧道青盖身长驱一作有胡须，牛鬬伤人犬咬毒，百日羽音进物排，周年水牛入屋中，鹏鸟人家染病怀。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "申",
+   "text": "作用时，南方骑马白衣人，吏卒人持刃相杀，百二十日女作媒，绝户田产来进纳，寡妇被贼劫不容。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "申",
+   "text": "肿脚人携酒至此，请医妇儒释，道人穿色衣，西北鼓声女财发，半年蛇从井中出，平白人送牛羊至。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "申",
+   "text": "家一作飞鸟叫师巫持符，百日内女人自拾珠翠归，周年新妇昌有位，生得贵子旺田蚕，诚恐家贼自劫退。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "申",
+   "text": "僧道来，金鼓四鸣百鸟噪，红裙女人送酒至，寡妇坐堂入宝窖，老人持杖马衔环，军人在家推病好。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "申",
+   "text": "作用时，水鹰鹞掠禽坠地，青衣女人携篮至，用后百日火光起，家败人亡白衣物，克宅体生是游情。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "申",
+   "text": "风雨来，三牙须人打鼓至，僧道穿黄应时候，七日军置黄犬来一作七日之内甑釜，女人火烧汤泼水，车碾百禽衔榖排。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "申",
+   "text": "作用时，怀孕妇人大哭啼，西方金鼓声鸣响，僧道持盖浪喘瘟，火临金时门争战，六十日内有进金。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "酉",
+   "text": "赤马过，西方轮舆群鸦噪，用后百日生贵子，僧道作牙商音地，三年内鸡生双子，猫养白儿试及第。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "酉",
+   "text": "西黄马，车轿伞盖妇必寡，须人相鬪犬吠人，羽音进产主诚雅，周年牛必入屋中，鸟鹏来家腹得疾。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "酉",
+   "text": "远方人送书至，东方狐狸咬叫声，妇人拿火把来吹，用后周年生贵子，拾得横财大发期。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "酉",
+   "text": "远方人送书至，东方狐狸咬叫声，妇人拿火把来吹，用后周年生贵子，拾得横财大发期。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "酉",
+   "text": "西火起，人家相打大叫理，鼓声绕噪惊鸟飞，造后周岁有贵子，必有窖财进门庭，喜鹊檐前报雾雨。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "酉",
+   "text": "僧尼来，火起从坤必定排，北方钟鼓鸣声闹，骡叫官员驼宝财，艺人送到远信至，七日商音娶女钗。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "酉",
+   "text": "作用时，白鹰扑鸽明是欺，青衣之人取铁器，因火丧家女守孤，七十日有商音进，夫妇和谐远路移。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "酉",
+   "text": "犬上门，童子拍手笑黄狐，院中幼女喜欢娱，六十日中生贵儿，白鸡地起妇倾酒，远路必定遇碑石。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "酉",
+   "text": "火入金，西方有人宅相争，鸦鸣喧呼暴碑过，白衣女人怀孕临，事后一旬小口母折足，百日争得财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "戌",
+   "text": "作用时，老人持杖入侧，西北露雨至此下，三牙须人担箩至，白犬过后依旬内，拾得军器有横财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "戌",
+   "text": "黄牛来，孕妇东方持伞回，恶犬家中出伤人，周年宫音送土财，百禽飞过车入到，粪中抛出女金钗。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "戌",
+   "text": "西方来了三五人，手执火把寻失物，师巫与三牙须人逢，鷄上树啼远有信，周年小口被牛损。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "戌",
+   "text": "西方来了三五人，手执火把寻失物，师巫与三牙须人逢，鷄上树啼远有信，周年小口被牛损。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "戌",
+   "text": "东北应，钟声铙钹响叮咚，青衣童子携篮过，一旬之内白龟临，就得寡母田地发，有人携举福到门。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "戌",
+   "text": "作用时，南方大叫贼惊疑，小儿骑牛至此过，百日家中主生贵子，金鷄鸣分玉犬吠，二年之后请得举。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "戌",
+   "text": "女抱布，北方树倒打人故，西有鼓声因葬事，六十日内蛇入宅，咬人皆是白色毒，连年瘟疫死未绝。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "戌",
+   "text": "童来时，家中争讼因失时，犬噪发凶丧户过，飞禽色黄尼姑来，贵人财旺一百日，紫衣之人来有财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "戌",
+   "text": "用时推，西方女人执白布，火光至此贼狱死，赤马买到遭讼非，一旬之内瘟病急，野鸡红翅主退财。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天蓬",
+   "hourZhi": "亥",
+   "text": "童子多成群，女人著孝服，后因投贼得横财，三年内出道人过，术人求财积成家，义猪被鹏衔肉过。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天芮",
+   "hourZhi": "亥",
+   "text": "走禽惊，秋冬吉时客主宅，春夏不用囚克泄，坤方火起二人还，猫犬伤人孕妇病，女人自缢一自悲。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天冲",
+   "hourZhi": "亥",
+   "text": "跛足青衣人即至，东北人家火光起，百日猫儿捉白鼠，商音人进田地契，妻财大发扶其主。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天辅",
+   "hourZhi": "亥",
+   "text": "跛足青衣人即至，东北人家火光起，百日猫儿捉白鼠，商音人进田地契，妻财大发扶其主。",
+   "docPath": "qmmj/book/juan17.md",
+   "shared": true
+  },
+  {
+   "star": "天禽",
+   "hourZhi": "亥",
+   "text": "起西风，乾地妇人有哭声，树倒拆屋大叫起，六十日进铁匠财，商音人说僧人产，喜鹊报到家信来。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天心",
+   "hourZhi": "亥",
+   "text": "鷄夜鸣，又主无故犬狂吠，老人头戴皮帽子，手执铁器必然贵，七日不知异人至，借宿遗财天赐得。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天柱",
+   "hourZhi": "亥",
+   "text": "西磬声，山下有人持火焚，叫呼喧天造葬后，救火得财大发荣，百日恐有鸡作怪，人死双双拜古坟。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天任",
+   "hourZhi": "亥",
+   "text": "小儿过，悔苔之下笑呵呵，西方锣鼓喧喧闹，铁器手空中伤多，白日忧福至家仆，一人土垫水渠桥。",
+   "docPath": "qmmj/book/juan17.md"
+  },
+  {
+   "star": "天英",
+   "hourZhi": "亥",
+   "text": "女人来，手执火把出大街，百日内有癞人至，锺命要与投井坏，北方树倒伤人屋，星为客兮宫主断。",
+   "docPath": "qmmj/book/juan17.md"
+  }
+ ],
+ "sanQiGong": [
+  {
+   "qi": "乙",
+   "trigram": "乾",
+   "text": "六乙到乾名曰「玉兔入天门」，吉。天冲、天辅加六宫，在季夏、秋月或庚辛酉申日，有白色气来助，主胜。一名「玉兔入林」。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉兔入天门"
+  },
+  {
+   "qi": "丙",
+   "trigram": "乾",
+   "text": "六丙到乾名为「天成天权」，凶。有白云气从西北或西方来助，主胜。天英加六宫，在夏秋月有赤色云气来助，客胜。一名「光明不全」。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "天成天权"
+  },
+  {
+   "qi": "丁",
+   "trigram": "乾",
+   "text": "六丁到乾名为「火到天门」，吉。丙丁巳午日有赤色云气从正南方来助，客胜。一名「玉女游天门」，又名「火照天门」。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "火到天门"
+  },
+  {
+   "qi": "乙",
+   "trigram": "坎",
+   "text": "六乙到坎名为「玉兔投泉」，吉。天英加一宫在秋冬月或壬癸亥子日，有黑色云气从正北方来助，主胜。一名「玉兔饮泉」。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉兔投泉"
+  },
+  {
+   "qi": "丙",
+   "trigram": "坎",
+   "text": "六丙到坎名为「丙火烧壬」，吉，主胜。天任、天禽、天芮加一宫在四季月或辰戌丑未日，一名「火投水池」。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "丙火烧壬"
+  },
+  {
+   "qi": "丁",
+   "trigram": "坎",
+   "text": "六丁到坎名曰「朱雀投江」，中吉。有黄色云气从东北或西南方来助，客胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "朱雀投江"
+  },
+  {
+   "qi": "乙",
+   "trigram": "艮",
+   "text": "六乙到艮名为「玉兔步贵」，吉。天蓬临八宫，在四季月或戊己辰戌丑未日，有黄色云气来助，主胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉兔步贵"
+  },
+  {
+   "qi": "丙",
+   "trigram": "艮",
+   "text": "六丙到艮名为「凤入丹山」，吉。有黄色云气从东北或西南方来助，主胜。天辅、天冲加八宫在冬春月。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "凤入丹山"
+  },
+  {
+   "qi": "丁",
+   "trigram": "艮",
+   "text": "六丁到艮名为「玉女乘云」，吉。甲乙寅卯日有青色云气从正东或东南方来助，客胜。一名「玉女游鬼门」。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉女乘云"
+  },
+  {
+   "qi": "乙",
+   "trigram": "震",
+   "text": "六乙到震名为「日出扶桑」，吉。天任、天禽、天芮临三宫，在冬夏月或甲乙寅卯日，有青云来助，主胜。即贵人升乙卯正殿。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "日出扶桑"
+  },
+  {
+   "qi": "丙",
+   "trigram": "震",
+   "text": "六丙到震名为「月入雷门」，吉。有云气从正东或东南方来助，主胜。天柱、天任加三宫，在季秋月天柱疑误。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "月入雷门"
+  },
+  {
+   "qi": "丁",
+   "trigram": "震",
+   "text": "六丁到震名曰「最明」，吉。庚辛申酉日有白云气从正西或西北方来助，客胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "最明"
+  },
+  {
+   "qi": "乙",
+   "trigram": "巽",
+   "text": "六乙到巽名曰「玉兔乘风」，吉。天任、天禽、天芮临四宫，在冬春月或甲乙寅卯日，有青色云气来助，主胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉兔乘风"
+  },
+  {
+   "qi": "丙",
+   "trigram": "巽",
+   "text": "六丙到巽名曰「火行风起」，又为「龙神助威」吉。东南方神旺，主胜。天心、天柱加四宫在季夏秋月。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "火行风起"
+  },
+  {
+   "qi": "丁",
+   "trigram": "巽",
+   "text": "六丁到巽名曰「美女留神」吉。或庚辛申酉日，有白色云气从正西或西北方来助，客胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "美女留神"
+  },
+  {
+   "qi": "乙",
+   "trigram": "离",
+   "text": "六乙到离名曰「玉兔当阳」，吉。天柱、天心加九宫，在春夏月或丙丁巳午日，有赤色云气来助，主胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉兔当阳"
+  },
+  {
+   "qi": "丙",
+   "trigram": "离",
+   "text": "六丙到离名曰「月照端门」，吉。有云气从正南方来助，主胜。天蓬加九宫，在秋月或壬癸日，即贵人升丙午正殿。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "月照端门"
+  },
+  {
+   "qi": "丁",
+   "trigram": "离",
+   "text": "六丁到离名曰「乘龙万里」。壬癸亥子日，有黑色云从正北方来助，客胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "乘龙万里"
+  },
+  {
+   "qi": "乙",
+   "trigram": "坤",
+   "text": "六乙到坤名曰「玉兔入坤」，中吉。天蓬临二宫在四季月或戊己辰戌丑未日，有黄色云气从北方来助，主胜。一名「玉兔暗日」。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉兔入坤"
+  },
+  {
+   "qi": "丙",
+   "trigram": "坤",
+   "text": "六丙到坤名曰「子居母舍」，吉。云气从西南方来助，主胜。天辅、天冲加二宫，在冬春月或甲日吉。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "子居母舍"
+  },
+  {
+   "qi": "丁",
+   "trigram": "坤",
+   "text": "六丁到坤名为「玉女游地」，吉。甲乙寅卯日有青色云气从正东或东南来助，客胜，大吉。一名「玉女游地户」，吉。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉女游地"
+  },
+  {
+   "qi": "乙",
+   "trigram": "兑",
+   "text": "六乙到兑名为「玉女受制」，平平。天冲、天辅加七宫，在季夏、秋月或庚辛申酉日，有白色云气来助，主胜。一名「白兔游宫」，吉。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "玉女受制"
+  },
+  {
+   "qi": "丙",
+   "trigram": "兑",
+   "text": "六丙到兑名曰「凤凰折翅」，凶。白云气从正西或西北方来助，主胜。天英加七宫在春夏月及丙日，客胜。",
+   "docPath": "qmmj/book/juan17.md",
+   "name": "凤凰折翅"
+  },
+  {
+   "qi": "丁",
+   "trigram": "兑",
+   "text": "六丁到兑，平平。丙丁巳午日，有赤云气从南方来助，客胜。一云：丁见兑为天乙贵人，即为贵升于丁酉正殿，大吉。\n遁甲利主以先至者为主，后至者为客\n天英加坎宫，利为主，加在秋冬月及壬、癸、亥、子日，有黑色云从正北方来助，主大胜。\n天任、天禽、天芮加震、巽，利为主。如在春、夏之月，甲、乙、寅、卯日，青色云气从东南方及正东方来助，主大胜。\n天蓬加坤、艮，利为主。如在四季月及戊、己、辰、戌、丑、未日，有黄色云气从东北或西南方来助，主大胜。",
+   "docPath": "qmmj/book/juan17.md"
+  }
+ ],
+ "baShen": [
+  {
+   "god": "值符",
+   "text": "值符主长者、贵人、公吏、钱物为应。",
+   "docPath": "qmmj/book/juan16.md"
+  },
+  {
+   "god": "腾蛇",
+   "text": "螣蛇主官司牵连、罗网、推风送雨，及惊恐、怪异为应。",
+   "docPath": "qmmj/book/juan16.md"
+  },
+  {
+   "god": "太阴",
+   "text": "太阴主贤人及夫妇阴私之事为应。",
+   "docPath": "qmmj/book/juan16.md"
+  },
+  {
+   "god": "六合",
+   "text": "六合主华彩、车、书、酒食、筵会、婚姻为应。",
+   "docPath": "qmmj/book/juan16.md"
+  },
+  {
+   "god": "白虎",
+   "text": "白虎主医巫、死丧、秽气、钱物为应。",
+   "docPath": "qmmj/book/juan16.md"
+  },
+  {
+   "god": "玄武",
+   "text": "元武主惊盗贼及云雨为应。",
+   "docPath": "qmmj/book/juan16.md"
+  },
+  {
+   "god": "九地",
+   "text": "九地主女人、衣服、稻豆、埋葬、走兽为应。",
+   "docPath": "qmmj/book/juan16.md"
+  },
+  {
+   "god": "九天",
+   "text": "九天主文书、印信、枪棒、火灾、占天、飞鸟为应。",
+   "docPath": "qmmj/book/juan16.md"
+  }
+ ],
+ "geju": [
+  {
+   "name": "天遁",
+   "kind": "吉",
+   "text": "「天遁」者，生门主兴隆合丙奇，临下六丁是也，此遁得月华之蔽，宜行兵、献策、摄王侯之权，百事生旺。又开门与六丙亦相同，宜祭祷天神。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "地遁",
+   "kind": "吉",
+   "text": "「地遁」者，开门合乙奇，临地下六己是也，此遁得日精之蔽，宜安葬、埋伏、出门、造屋一切皆吉。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "人遁",
+   "kind": "吉",
+   "text": "「人遁」者，休门与丁奇合太阴是也，此遁得星精之蔽，宜密探贼营、隐迹、谒贵、招贤、求亲、经营、求将、对敌、盟誓，吉；百事和集。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "风遁",
+   "kind": "吉",
+   "text": "「风遁」者，乙奇合休开生临巽是也，又开丙临巽亦是。此时风从西北方来，名「天罡风」，宜顺风击贼，以嘿吸风气喷噀旌旄，或托异香令士卒沉听音乐，得灵风 顺音爽帆之蔽，顺风所助。如风从东来，名「雷门风」，若贼在东方不可与战。风从东南来，名「大门风」，如贼在南方亦不可与战。《参筹秘书》云：「开门乙奇 临巽，宜祭风伯，以火攻敌，战立旌旗，以候风应」。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "云遁",
+   "kind": "吉",
+   "text": "「云遁」者，乙合开休生，下临六辛宫，又乙开临坤亦是此遁，得云精之蔽，宜藏形、蔽敌。如云气形、如妇人双手双足，主三日有喜，所临处吉。白云在外中有黑 云，主有伏兵，形似雁行，主有大将出，所临处吉。形如坐狗，有奇兵埋伏，云震片片，被风吹断，主大败。一云：乙休临坤，利求雨泽、建立云寨、制造军器，以 候云应。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "龙遁",
+   "kind": "吉",
+   "text": "「龙遁」者，休门与乙奇临六甲于坎宫，临六癸亦是。此时宜祭龙神、祈求雨泽、掩捕贼人、密计渡河、把守水口、设机伏谋、攻敌、量水面，得龙神助，又利水战。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "虎遁",
+   "kind": "吉",
+   "text": "「虎遁」者，乙奇合辛临休门于艮宫，又辛仪合生临艮亦是。此时宜招安亡命及战用急攻，必胜；设伏游击、藏兵、计渡要害、道路量险，用谋得虎之威。一云：生门丙奇合辛亦是，利守御，宜建立山寨，以候虎应。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "神遁",
+   "kind": "吉",
+   "text": "「神遁」者，丙奇合九天临生门，此时宜祷神灵、行神术、画地布筹、禹罡、造坛、驱邪、命将、呼风召雨，及制伏鬼神魔魅，得天灵百神之蔽。一云：「修塑神像，神灵佑之」。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "鬼遁",
+   "kind": "吉",
+   "text": "「鬼遁」者，生门与丁奇、九地临艮。又乙奇合九地于杜门亦是。此时宜哨探贼机、偷营劫寨、设伪为伏虚、驱神役鬼，得鬼神之蔽。一云：「开门、丁奇合九地亦是鬼遁」。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "三奇上吉门格",
+   "kind": "吉",
+   "text": "「三奇上吉门格」乙丙丁三奇到，而无开休生三吉门者，不可用。如三吉门到，而无三奇者，尚可用。经云：「背生向死，百战百胜」。总之三奇吉星、吉门俱到，又不犯格，方为万全。若事在危急，诸星不到，须用背生向死之法。如敌势尚缓，候三奇吉门俱到，斯为全美矣。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "三奇专使格",
+   "kind": "吉",
+   "text": "「三奇专使格」甲己日乙奇，丙辛日丙奇，乙庚日丁奇，丁壬日乙奇，戊癸日丁奇也。\n以上皆吉，阴阳二遁同。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "玉女守门格",
+   "kind": "吉",
+   "text": "「玉女守门格」甲己时在丙，乙庚时在辛，丙辛时在乙，丁壬时在己，戊癸时在壬。一云：兑宫有丁辛者吉。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "交泰格",
+   "kind": "吉",
+   "text": "「交泰格」乙奇加丁，乙奇加丙，遇之大吉。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "天遇运昌气格",
+   "kind": "吉",
+   "text": "「天遇运昌气格」六丁加六乙。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "三奇利合格",
+   "kind": "吉",
+   "text": "「三奇利合格」六丁加六甲，六甲谓之符头。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "天辅时格",
+   "kind": "吉",
+   "text": "「天辅时格」甲己日甲戌，乙庚日甲申，丙辛日甲午，丁壬日甲辰，戊癸日甲寅。行兵、战鬪、上官、参谒、求财、远行皆吉。有罪者，皆逢宥释。甲己日甲子、己巳时亦是。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "青龙回首格",
+   "kind": "吉",
+   "text": "「青龙回首格」天盘六戊，地盘六丙。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "飞鸟跌穴",
+   "kind": "吉",
+   "text": "「飞鸟跌穴」丙加戊。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "雀含花格",
+   "kind": "吉",
+   "text": "「雀含花格」丙加乙。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "三奇得使格",
+   "kind": "吉",
+   "text": "「三奇得使格」乙加午甲午、戌甲戌二宫，丙奇加子甲子、申甲申二宫，丁奇加寅甲寅、辰甲辰。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "悖格",
+   "kind": "凶",
+   "text": "「悖格」丙加值符，加丙及丙加岁月日时之上，俱为悖格，主莅政纲纪紊乱。丙加丙亦为悖，主见乱臣贼子。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "天网四张",
+   "kind": "凶",
+   "text": "「天网四张」歌曰：「天网四张无路走，一二网低有路通」。如壬戌年九月癸未日癸丑时阴六局，休门与值符加时干癸于坎宫，日时二干俱加离宫，是为网高九尺。又曰：「天网四张不可当」。此时用事有灾殃，若是有人强出者，立便身眠见血光。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "地网遮格",
+   "kind": "凶",
+   "text": "「地网遮格」六壬加时干六癸，二网俱不宜出兵、出行，大凶。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "高格",
+   "kind": "凶",
+   "text": "「高格」即「天网四张」，天上六癸加五六七八九宫，大凶，不可用。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "低格",
+   "kind": "凶",
+   "text": "「低格」天盘六癸加一二三四宫，即匍匐而出。经曰：「天网四张，百物自伤」。此时可举百事，又神有高下必须知之。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "伏宫格",
+   "kind": "凶",
+   "text": "「伏宫格」天盘六庚加值符及地盘戊，主客俱不利，战鬪两伤。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "飞宫格",
+   "kind": "凶",
+   "text": "「飞宫格」直符加六庚，主客俱凶。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "时墓格",
+   "kind": "凶",
+   "text": "「时墓格」丙戌墓干，壬辰墓巽，辛丑墓艮，乙未墓坤，戊戌墓干。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "迫制和义格",
+   "kind": "凶",
+   "text": "「迫制和义格」门克宫为迫，宫克门为制，门生宫为和，宫生门为义。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "二龙相比格",
+   "kind": "凶",
+   "text": "「二龙相比格」六甲加六乙，凶。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "青龙受困格",
+   "kind": "凶",
+   "text": "「青龙受困格」六甲加六戊，危。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "火披水地",
+   "kind": "凶",
+   "text": "「火披水地」丙丁入乙宫，万事莫举。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "木入金乡",
+   "kind": "凶",
+   "text": "「木入金乡」乙奇临六、七宫，万事莫举。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "火临金位",
+   "kind": "凶",
+   "text": "「火临金位」丙丁加干兑宫。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "金劈木林",
+   "kind": "凶",
+   "text": "「金劈木林」庚辛临震巽宫。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "木来克土",
+   "kind": "凶",
+   "text": "「木来克土」乙奇临坤艮宫。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "伏干格",
+   "kind": "凶",
+   "text": "「伏干格」庚加日干。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "飞干格",
+   "kind": "凶",
+   "text": "「飞干格」日干加庚。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "伏吟格",
+   "kind": "凶",
+   "text": "「伏吟格」本星伏本宫。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "反吟格",
+   "kind": "凶",
+   "text": "「反吟格」星临对宫。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "奇墓格",
+   "kind": "凶",
+   "text": "「奇墓格」乙到临坤，丙奇临干，丁奇临艮。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "六仪刑击格",
+   "kind": "凶",
+   "text": "「六仪刑击格」甲子戊直符加三宫，甲戌己值符加二宫，甲申庚加八宫，甲午辛加九宫，甲辰壬加四宫，甲寅癸值符加四宫。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "六仪受制",
+   "kind": "凶",
+   "text": "「六仪受制」休加离，伤杜加艮坤，景加干、兑，生死加坎，开、惊加震、巽。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "五不遇时格",
+   "kind": "凶",
+   "text": "「五不遇时格」时干克日干。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "地罗占葬格",
+   "kind": "凶",
+   "text": "「地罗占葬格」天盘壬加地盘壬",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "岁格",
+   "kind": "凶",
+   "text": "「岁格」庚临岁干。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "月格",
+   "kind": "凶",
+   "text": "「月格」庚临月干。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "日格",
+   "kind": "凶",
+   "text": "「日格」庚临日干。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "时格",
+   "kind": "凶",
+   "text": "「时格」庚临时干。即庚年庚月庚日庚时。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "大格",
+   "kind": "凶",
+   "text": "「大格」庚临六癸。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "小格",
+   "kind": "凶",
+   "text": "「小格」庚临六壬。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "刑格",
+   "kind": "凶",
+   "text": "「刑格」庚临六己。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "悖格",
+   "kind": "凶",
+   "text": "「悖格」丙加时干。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "青龙逃走",
+   "kind": "凶",
+   "text": "「青龙逃走」乙加辛。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "白虎猖狂",
+   "kind": "凶",
+   "text": "「白虎猖狂」辛加乙。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "螣蛇妖矫",
+   "kind": "凶",
+   "text": "「螣蛇妖矫」癸加丁。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "朱雀投江",
+   "kind": "凶",
+   "text": "「朱雀投江」丁加癸。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "荧惑入太白",
+   "kind": "凶",
+   "text": "「荧惑入太白」丙加庚。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "name": "太白入荧惑",
+   "kind": "凶",
+   "text": "「太白入荧惑」庚加丙。",
+   "docPath": "qmmj/book/juan15.md"
+  }
+ ],
+ "markVerses": [
+  {
+   "mark": "门迫",
+   "text": "惊开三四休临九，伤杜还归二八宫，生死排来居第一，景门六七总相同，吉门被迫吉不就，凶门被迫祸重重。",
+   "docPath": "qmmj/book/juan15.md"
+  },
+  {
+   "mark": "入墓",
+   "text": "三奇入墓百不宜，乙丙临干请避之，丁奇乙未临艮土，诸般动作尽休休。",
+   "docPath": "qmmj/book/juan15.md"
+  }
+ ],
+ "ju72": [
+  {
+   "no": 1,
+   "text": "乙奇同辅星临休门。号曰「飞龙在天」，主将军于京地千里，利西方进兵札营，出门有二鸟齐鸣成奇勋也。\n阳五局甲己日乙亥时，但无九地之神，候查。\n阳三局乙庚日丙戌时，但无玄武之神。\n阴三局丙辛日戊子时。\n阳三局甲己日乙亥时有天辅。",
+   "qi": "乙",
+   "gate": "休门",
+   "star": "天辅",
+   "name": "飞龙在天",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 2,
+   "text": "乙奇同九天、柱星临生门，号曰「青云得露路」，出军主大胜，得首级五千、地百里，出门有老妪到左逢，军行五百里有壶浆来迎，吉。",
+   "qi": "乙",
+   "gate": "生门",
+   "star": "天柱",
+   "god": "九天",
+   "name": "青云得露路",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 3,
+   "text": "乙奇同任星、太阴临伤门，号曰「太阴当权」。主大将出阵得胜，有获辎重粮饷之类，军行坎宫五百里有云铺顶，西方有鼓乐，大利。",
+   "qi": "乙",
+   "gate": "伤门",
+   "star": "天任",
+   "god": "太阴",
+   "name": "太阴当权",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 4,
+   "text": "乙奇同值符、英星临杜门，号曰「霹雳雷全」。宜副将出军正将坐营，得地四十里、首级五千馀，军行宜兑宫，出门有道人相逢，本营有旗旗折，大利。\n阳六局丙辛日乙未时。\n阴二局乙庚日乙酉时。",
+   "qi": "乙",
+   "gate": "杜门",
+   "star": "天英",
+   "god": "值符",
+   "name": "霹雳雷全",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 5,
+   "text": "乙奇同六合临景门，号曰「天马驰星」。军行宜出兑宫，巽宫坐营，有异人献策，得军马于京，出门有大风，行至五百里大雨骤至，吉。\n阳八局戊癸日乙卯时，是否天柱星，应查。\n阴一局戊癸日乙卯时，同局又是天芮。",
+   "qi": "乙",
+   "gate": "景门",
+   "god": "六合",
+   "name": "天马驰星",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 6,
+   "text": "乙奇同白虎、心星临死门，号曰「五虎临门」。宜出巳宫坐午宫，正将大胜，得城池、首级、车马、财帛，军行出门有紫色云气，行三里有黄伞人至，大吉。",
+   "qi": "乙",
+   "gate": "死门",
+   "star": "天心",
+   "god": "白虎",
+   "name": "五虎临门",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 7,
+   "text": "乙奇同太阴、禽星临惊门，号曰「月出天衢」。军行宜出乾宫坐营巳宫，攻城利西北，夺地利东南，出门有三人飞马报献消息，有鹰鸣，大利。",
+   "qi": "乙",
+   "gate": "惊门",
+   "star": "天禽",
+   "god": "太阴",
+   "name": "月出天衢",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 8,
+   "text": "乙奇同九天、天辅星临开门，号曰「太阴得令」。至于天子御驾亲征，判伏四夷，剿除不法。\n阴三局甲己日乙丑时。",
+   "qi": "乙",
+   "gate": "开门",
+   "star": "天辅",
+   "god": "九天",
+   "name": "太阴得令",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 9,
+   "text": "乙奇同柱星、直符临休门也，号曰「白虎扬威」。宜劫人营寨、夺人粮草，大胜。宜坎宫出阵，巽宫坐营，主将有功，出门三里有青雀飞噪，途中遇火起，大吉。\n阳三局丁壬日乙巳时。\n阴八局甲己日乙亥时。",
+   "qi": "乙",
+   "gate": "休门",
+   "star": "天柱",
+   "god": "值符",
+   "name": "白虎扬威",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 10,
+   "text": "乙奇同九天、柱星临生门，号曰「天罗地网」。主大将出阵，百战百胜，得地千里，城池十馀，所向皆利，军行出门有大风起自西北，东北有雷声相应，大吉。",
+   "qi": "乙",
+   "gate": "生门",
+   "star": "天柱",
+   "god": "九天",
+   "name": "天罗地网",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 11,
+   "text": "乙奇同太阴、柱星临伤门，号曰「六合同春」。出军有损攻战，宜与敌人有弓弩埋伏东西，出军宜防之。出行有黄云四起，辰巳时利。",
+   "qi": "乙",
+   "gate": "伤门",
+   "star": "天柱",
+   "god": "太阴",
+   "name": "六合同春",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 12,
+   "text": "乙奇同六合、柱星临杜门，号曰「玉女归关」。出战大将有伤，利东北不利西南，军行出门微雨，不利。",
+   "qi": "乙",
+   "gate": "杜门",
+   "star": "天柱",
+   "god": "六合",
+   "name": "玉女归关",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 13,
+   "text": "乙奇同九天、禽星临景门，号曰「喜鹊争巢」。利用火攻，后劫人营寨，得人器械、戈盾之属，军行午时，出门未时，兵行三里遇兔，大吉。",
+   "qi": "乙",
+   "gate": "景门",
+   "star": "天禽",
+   "god": "九天",
+   "name": "喜鹊争巢",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 14,
+   "text": "乙奇同朱雀、任星临死门，号曰「鸟占枯枝」。出军主士卒失散，所为不遂，战不成功，军行出门有雁南来，不吉。\n阳九局乙庚日丙戌时。",
+   "qi": "乙",
+   "gate": "死门",
+   "star": "天任",
+   "god": "朱雀",
+   "name": "鸟占枯枝",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 15,
+   "text": "乙奇同螣蛇、辅星临惊门，号曰「黄龙升天」。出阵宜水战不宜陆战，水战有东风天助，利火攻，军行五百里有紫色云气，大吉。",
+   "qi": "乙",
+   "gate": "惊门",
+   "star": "天辅",
+   "god": "腾蛇",
+   "name": "黄龙升天",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 16,
+   "text": "乙奇同太阴、蓬星临开门，号曰「天虎司衡」。利守不利战，正将出师有忧，利出巽宫，丁甲焚符可免途中遇云掩红日，不利。",
+   "qi": "乙",
+   "gate": "开门",
+   "star": "天蓬",
+   "god": "太阴",
+   "name": "天虎司衡",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 17,
+   "text": "乙奇同九地、芮星临休门，号曰「天枢直日」。军行宜出乾宫坐未宫，不利攻城，若在大寒节乃利攻城，军行出门有五彩人至，大利。\n阳三局甲己日乙亥时。",
+   "qi": "乙",
+   "gate": "休门",
+   "star": "天芮",
+   "god": "九地",
+   "name": "天枢直日",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 18,
+   "text": "乙奇同太阴、冲星临生门，号曰「白露横江」。宜出坎宫或午宫，用符水噀之，利水战，可得首级二千、舟车数百，出门有白鱼入舟，大利。",
+   "qi": "乙",
+   "gate": "生门",
+   "star": "天冲",
+   "god": "太阴",
+   "name": "白露横江",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 19,
+   "text": "乙奇同六合、禽星临伤门，号曰「风散百花」。不宜出师，不利主将，有折兵覆舟之厄，军行出门遇西风，有恶风，不利。行师若事急不得已，当出巽宫，先书六甲符，噀之、烧之，可免凶煞。\n阴四局戊癸日乙卯时。",
+   "qi": "乙",
+   "gate": "伤门",
+   "star": "天禽",
+   "god": "六合",
+   "name": "风散百花",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 20,
+   "text": "乙奇同辅星、白虎临杜门，号曰「虎啸生风」。军行宜出寅宫，坐巳宫，利陆战，五十里地有伏兵，宜退不宜进，出行有瞽至，主小利。",
+   "qi": "乙",
+   "gate": "杜门",
+   "star": "天辅",
+   "god": "白虎",
+   "name": "虎啸生风",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 21,
+   "text": "乙奇同九天、任星临景门，号曰「飞蛾扑火」。不利守城，宜死战守城，破敌则可，若敌人有反间之计，不可从。出门有白犬当路，不利。",
+   "qi": "乙",
+   "gate": "景门",
+   "star": "天任",
+   "god": "九天",
+   "name": "飞蛾扑火",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 22,
+   "text": "乙奇同朱雀、柱星临死门，号曰「尸横遍野」。不宜出师，宜固守营垒，谨防西、北二方有贼劫营，午时不利。\n阳遁朱雀即阴遁元武。\n阴六局乙庚日乙酉时。",
+   "qi": "乙",
+   "gate": "死门",
+   "star": "天柱",
+   "god": "朱雀",
+   "name": "尸横遍野",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 23,
+   "text": "乙奇同螣蛇、任星临惊门，号曰「昆虫变化」。宜岀西方，水陆俱利，城池可破，大将可擒，出门有白云当空，行三里天有微雨，大利。",
+   "qi": "乙",
+   "gate": "惊门",
+   "star": "天任",
+   "god": "腾蛇",
+   "name": "昆虫变化",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 24,
+   "text": "乙奇同任星、入符临开门，号曰「天门大开」。大将出师，得城池、首级数百，军行宜从坎宫，主闻鼓乐声，有野人献策，大利。\n阳八局甲己日乙丑时。\n阴四局戊癸日乙卯时。\n阴七局戊癸日乙卯时。",
+   "qi": "乙",
+   "gate": "开门",
+   "star": "天任",
+   "name": "天门大开",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 25,
+   "text": "丙奇同六合、芮星临休门，号曰「五星聚会」。大将出师，宜出坤宫坐巽宫，得首级五千，又得一名大将知天文地理，可招服之。大将出师宜遇大雪，春遇微雨，有狗二只从西方来。\n阴九局丁壬日丙午时。",
+   "qi": "丙",
+   "gate": "休门",
+   "star": "天芮",
+   "god": "六合",
+   "name": "五星聚会",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 26,
+   "text": "丙奇临朱雀、任星临生门，号曰「如鱼失水」。大将出师不利，主士卒伤火矢，若事急不得已出坎宫，宜书丁甲符，水制之可反凶为吉，出门忌见人持彩物来，不利。",
+   "qi": "丙",
+   "gate": "生门",
+   "star": "天任",
+   "god": "朱雀",
+   "name": "如鱼失水",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 27,
+   "text": "丙奇同值符、心星临伤门，号曰「得出天罗」。主大将出师，宜出南方坐正北，始不利，主午时大获辎重、器械，途中遇青衣道人持书献策来迎，大吉。",
+   "qi": "丙",
+   "gate": "伤门",
+   "star": "天心",
+   "god": "值符",
+   "name": "得出天罗",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 28,
+   "text": "丙奇同值符、芮星临杜门遇甲己日，号曰「六甲逢时」。出军有小伤，士卒皆有忧色，午时出兵大利，得土地、破城，人心归顺，出门五百里有妇人衣色服自西方来，大利。\n阳八局丙辛日丙申时。",
+   "qi": "丙",
+   "gate": "杜门",
+   "star": "天芮",
+   "god": "值符",
+   "name": "六甲逢时",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 29,
+   "text": "丙奇同勾陈、蓬星临景门，号曰「鱼龙变化」。主将出师单骑破，虏获首级数十，宜坤宫坐营，军行出门遇仙风、道人，大利。\n阳遁勾陈，阴遁白虎。\n阴八局丙辛日丁酉时。",
+   "qi": "丙",
+   "gate": "景门",
+   "star": "天蓬",
+   "god": "勾陈",
+   "name": "鱼龙变化",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 30,
+   "text": "丙奇同勾陈、英星临死门，遇午、未时，号曰「宝镜重磨」。大将出师，先败后胜，得地五千，宜震宫，出门遇黄衣道人骑白马至，大利。\n阳二局丙辛日丙申时。\n阴二局丙辛日戊戌、己亥皆同。",
+   "qi": "丙",
+   "gate": "死门",
+   "star": "天英",
+   "god": "勾陈",
+   "name": "宝镜重磨",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 31,
+   "text": "丙奇同太阴临惊门，号曰「蛇入龙穴」。主将出师可，宜入人城池，得金宝数万，军行出门西方有鼓声，白云射斗牛，黄云盖顶，大利。\n阳九局戊癸日丙辰时，但遗漏星名，是否天柱临宫？俟查。",
+   "qi": "丙",
+   "gate": "惊门",
+   "god": "太阴",
+   "name": "蛇入龙穴",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 32,
+   "text": "丙奇同九天、六合临开门，号曰「鸿鹄冲天」。主大将出师大胜，可夺人土地，斩将寨旗，军中有员归营，出门东南有红霓射天市垣，大利。\n阴五局丁壬日丙午时，九天重出，是否遗漏天柱？俟查。",
+   "qi": "丙",
+   "gate": "开门",
+   "god": "九天",
+   "name": "鸿鹄冲天",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 33,
+   "text": "丙奇同螣蛇、芮星临休门遇壬子日，号曰「天罡择地」。主将先凶后吉，有弓矢之伤，至吉时得胜，可得土地，杀人盈野。军行出门三里主阴雨微微，大吉。",
+   "qi": "丙",
+   "gate": "休门",
+   "star": "天芮",
+   "god": "腾蛇",
+   "name": "天罡择地",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 34,
+   "text": "丙奇同九地、任星临生门，号曰「蛇入燕巢」。不可出军，有敌人伏兵入营内，伤副将军。军行三里南方有鼓声，主军中有火起，不利。",
+   "qi": "丙",
+   "gate": "生门",
+   "star": "天任",
+   "god": "九地",
+   "name": "蛇入燕巢",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 35,
+   "text": "丙奇同六合、辅星临伤门，号曰「天门大开」。大将从震宫出可缚敌首，有擒王斩将之功，军行有黑云气起震宫，大利。",
+   "qi": "丙",
+   "gate": "伤门",
+   "star": "天辅",
+   "god": "六合",
+   "name": "天门大开",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 36,
+   "text": "丙奇同六合、任星临杜门遇庚申日，号曰「枯木逢春」。主战阵已破之，兵复整出阵，竟成大利。军行出门三里有鸦鸣之声飞过，大吉。",
+   "qi": "丙",
+   "gate": "杜门",
+   "star": "天任",
+   "god": "六合",
+   "name": "枯木逢春",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 37,
+   "text": "丙奇同九天、芮星临景门，号曰「蛟龙失水」。主出师不利，折车马、损辎重。若事急宜向兑宫出，以行水解之，亦可半吉。军行出门遇烈日，行至十里有鼓声，大利。",
+   "qi": "丙",
+   "gate": "景门",
+   "star": "天芮",
+   "god": "九天",
+   "name": "蛟龙失水",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 38,
+   "text": "丙奇同朱雀、辅星临死门，号曰「天冲临阵」。出师宜从震方，主敌人退三舍，得首级四十，获大将一员，出门西北方有巨雷声，二十里大利。",
+   "qi": "丙",
+   "gate": "死门",
+   "star": "天辅",
+   "god": "朱雀",
+   "name": "天冲临阵",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 39,
+   "text": "丙奇同值符、芮星临惊门遇卯未日时，号曰「风云聚会」。主大将出师，弃西北出东南，伏兵能得首级五百。军行出门三里有野飞来，大吉。\n阳二局甲己日丙寅时。\n阴二局乙庚日丙子时。",
+   "qi": "丙",
+   "gate": "惊门",
+   "star": "天芮",
+   "god": "值符",
+   "name": "风云聚会",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 40,
+   "text": "丙奇同九天、芮星临开门，号曰「群羊搏虎」。辰戌日时出兵大败，折马卒三千，不宜战。军行遇虎，不利。",
+   "qi": "丙",
+   "gate": "开门",
+   "star": "天芮",
+   "god": "九天",
+   "name": "群羊搏虎",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 41,
+   "text": "丙奇临太阴、蓬星临休门，号曰「天日照临」。主兵得胜，吉。缚大将一员，得地三十里，城池可破，军行宜从艮宫出，坐坤宫，行至五百里有大火，风雨十里有。\n阳三局戊癸日丙辰时。\n阴八局日时皆同。",
+   "qi": "丙",
+   "gate": "休门",
+   "star": "天蓬",
+   "god": "太阴",
+   "name": "天日照临",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 42,
+   "text": "丙奇同六合、冲星临生门，号曰「秋风四起」。军行宜在艮宫出，坐在兑宫，四路伏兵，破败敌五百骑，俱不利水战。军行出门有一人献舆图，大利。",
+   "qi": "丙",
+   "gate": "生门",
+   "star": "天冲",
+   "god": "六合",
+   "name": "秋风四起",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 43,
+   "text": "丙奇同朱雀临伤门遇午未日，号曰「河魁夺魄」。主将宜出离宫坐坎宫，利水战，可夺舟楫，军行出门西方有火起，大利。\n阳一局乙庚日丙子时是否任星，应查。丙戌日时亦同天英又是。",
+   "qi": "丙",
+   "gate": "伤门",
+   "god": "朱雀",
+   "name": "河魁夺魄",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 44,
+   "text": "丙奇同九地、心星临杜门遇申子辰日，号曰「天乙司冲」。军行宜出兑宫坐震宫，可得地五千里。出门有黄衣人自南方来报献消息，大利。",
+   "qi": "丙",
+   "gate": "杜门",
+   "star": "天心",
+   "god": "九地",
+   "name": "天乙司冲",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 45,
+   "text": "丙奇同太阴、英星临景门，号曰「火焚昆冈」。主大将出师百里，破寨斩首级七百。出门遇黄衣人自西来，大吉。\n阳二局癸酉日丙辰时。\n阴七局戊癸日丙辰时。",
+   "qi": "丙",
+   "gate": "景门",
+   "star": "天英",
+   "god": "太阴",
+   "name": "火焚昆冈",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 46,
+   "text": "丙奇同六合、柱星临死门遇卯未日时，号曰「天河转运」。出师不利，主伤士卒、车马。军行出师有微雨，行至三百里有群鸟向北飞来，不利。",
+   "qi": "丙",
+   "gate": "死门",
+   "star": "天柱",
+   "god": "六合",
+   "name": "天河转运",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 47,
+   "text": "丙奇同朱雀、任星临惊门，号曰「太乙得令」。军行出门可得城池，战必胜，攻必取。若在惊蛰时节，军行有黄云从巽宫起，大吉。",
+   "qi": "丙",
+   "gate": "惊门",
+   "star": "天任",
+   "god": "朱雀",
+   "name": "太乙得令",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 48,
+   "text": "丙奇同勾陈、心星临开门在雨水前，号曰「河魁直时」。利水战，可缚敌首，军行遇西方有鼓声，大吉。\n阳八局丙辛日丁酉时。\n阴四局日时同。\n阳一局丙辛日甲午时。",
+   "qi": "丙",
+   "gate": "开门",
+   "star": "天心",
+   "god": "勾陈",
+   "name": "河魁直时",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 49,
+   "text": "丁奇同值符、任星临休门遇丑未日时，号曰「雨霁沧江」。出师宜出坎宫坐坤宫，可夺寨、焚粮、用计、伏兵，大胜。军行三里有微雨，遇西风，大利。\n阳七局乙庚日丁丑时。\n阴四局戊癸日丁巳时。",
+   "qi": "丁",
+   "gate": "休门",
+   "star": "天任",
+   "god": "值符",
+   "name": "雨霁沧江",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 50,
+   "text": "丁奇同太阴、禽星临生门，号曰「胜光争位」。出师不利，主大将有灾，士卒多厄。军行宜退不宜进，军行出门遇有北风大起，不利。\n阳八局丁壬日乙巳时。",
+   "qi": "丁",
+   "gate": "生门",
+   "star": "天禽",
+   "god": "太阴",
+   "name": "胜光争位",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 51,
+   "text": "丁奇同六合、任星临伤门，号曰「群鷄化凤」。主将宜出震宫坐离宫，可破敌五百骑，遇午未时更胜。军行有老人携子来见，大吉。",
+   "qi": "丁",
+   "gate": "伤门",
+   "star": "天任",
+   "god": "六合",
+   "name": "群鷄化凤",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 52,
+   "text": "丁奇同朱雀临杜门遇寅卯日时，号曰「火炼金丹」。主大将出师，从兑上出先凶后吉，军行出门遇妇人抱子来，见群鸦飞噪，大吉。\n阳四局甲己日丁卯时，但遗漏星名，是否天蓬临宫，当须查考。\n阴四局亦同格局，又是天柱名，俟查。\n阳二局丙辛日戊子时，与阳四局同。",
+   "qi": "丁",
+   "gate": "杜门",
+   "god": "朱雀",
+   "name": "火炼金丹",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 53,
+   "text": "丁奇同勾陈、禽星临景门，号曰「鼠落糠盘」。出师先胜后不成，败大功。军出门见西方有火起，不利。",
+   "qi": "丁",
+   "gate": "景门",
+   "star": "天禽",
+   "god": "勾陈",
+   "name": "鼠落糠盘",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 54,
+   "text": "丁奇同九天、英星临死门遇子午日时，号曰「孤舟渡江」。主大将军宜出坎宫，东方坐营，可斩大将三员者，首级三千，天子出师，可服万国，出兵南方，有五色云见，大吉。",
+   "qi": "丁",
+   "gate": "死门",
+   "star": "天英",
+   "god": "九天",
+   "name": "孤舟渡江",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 55,
+   "text": "丁奇同六合、心星临惊门，号曰「太岁坐营」。宜出大兵八方皆利，可得土地数千里，敌兵尽扫。军出南方有大风起，白云见顶，大吉。\n黄石公奇门七十二局军中应騐神符经",
+   "qi": "丁",
+   "gate": "惊门",
+   "star": "天心",
+   "god": "六合",
+   "name": "太岁坐营",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 56,
+   "text": "丁奇同值符、辅星临开门，号曰「豹变南山」。主将出师大胜，军出宜出巳宫坐营震宫，出门有二小儿从北方来见，大吉。\n阳三局乙庚日丁丑时。\n阴九局戊癸日丁巳时。",
+   "qi": "丁",
+   "gate": "开门",
+   "star": "天辅",
+   "god": "值符",
+   "name": "豹变南山",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 57,
+   "text": "丁奇同太阴、蓬星临休门遇丑未日时，号曰「雷震百里」。大将出师大利，宜出震宫，得地二百里，斩首级五百。出门遇妇人著红衣自西方来，大吉。\n阳七局丁丑日丙戌时。\n阴三局同。",
+   "qi": "丁",
+   "gate": "休门",
+   "star": "天蓬",
+   "god": "太阴",
+   "name": "雷震百里",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 58,
+   "text": "丁奇同六合辅星临生门，号曰「六合临阵」。主大将出师大胜，军出离宫坐震宫，直击敌首，莫攻敌尾。出门有鸡鸣，大吉。",
+   "qi": "丁",
+   "gate": "生门",
+   "star": "天辅",
+   "god": "六合",
+   "name": "六合临阵",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 59,
+   "text": "丁奇俱同前。",
+   "qi": "丁",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 60,
+   "text": "丁奇同六合、心星临杜门，号曰「玉女反面」。主大将出师不利，巽宫出营，宜坐营稍吉。军出门行五里遇微雨，至十里有敌来战，不利。\n阴三局丁壬日庚子时。",
+   "qi": "丁",
+   "gate": "杜门",
+   "star": "天心",
+   "god": "六合",
+   "name": "玉女反面",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 61,
+   "text": "丁奇同朱雀、任星临景门，号曰「六丁冲阵」。出军宜向西方坐营，有敌伏在北方，可得地三处。出门空中有五色云见，行至三里遇群猪，大利。",
+   "qi": "丁",
+   "gate": "景门",
+   "star": "天任",
+   "god": "朱雀",
+   "name": "六丁冲阵",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 62,
+   "text": "丁奇同太阴、任星临死门，号曰「金刚扫地」。出师宜向南，又宜坐震宫，主先凶后吉，可得首级五千。军出门遇术士献策，大利。",
+   "qi": "丁",
+   "gate": "死门",
+   "star": "天任",
+   "god": "太阴",
+   "name": "金刚扫地",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 63,
+   "text": "丁奇同九天、辅星临惊门，号曰「河落呈祥」。宜南方出军，东方坐营。若攻城亦宜向震宫，三日奏捷。军出门三里见瑞气从东南方来，大吉。",
+   "qi": "丁",
+   "gate": "惊门",
+   "star": "天辅",
+   "god": "九天",
+   "name": "河落呈祥",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 64,
+   "text": "丁奇同九天、禽星临开门，号曰「太白垂光」。出师得胜，多获金宝。军行宜出震宫坐乾宫。行五里有鸇鸣，二百里人获器物，大利。",
+   "qi": "丁",
+   "gate": "开门",
+   "star": "天禽",
+   "god": "九天",
+   "name": "太白垂光",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 65,
+   "text": "丁奇同蓬星临休门遇辰戌日，号曰「荧惑生光」。宜离宫出军，坎宫坐营，宜用火攻，可破敌都邑，俘获上将，出门见黄衣人自北来，不利。",
+   "qi": "丁",
+   "gate": "休门",
+   "star": "天蓬",
+   "name": "荧惑生光",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 66,
+   "text": "丁奇同值符、辅星临生门，号曰「罗猴过渡」。宜出师坎宫坐营坤宫，主破敌三十骑，得地百里，斩首级三千。军出遇大风一阵，即不利。",
+   "qi": "丁",
+   "gate": "生门",
+   "star": "天辅",
+   "god": "值符",
+   "name": "罗猴过渡",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 67,
+   "text": "丁奇同朱雀、心星临伤门，号曰「月孛当空」。出师不利，事急不得已，宜以鬼掌符水噀北方可出，得三里有跛足人自西北来报，大利。",
+   "qi": "丁",
+   "gate": "伤门",
+   "star": "天心",
+   "god": "朱雀",
+   "name": "月孛当空",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 68,
+   "text": "丁奇同勾陈、禽星临杜门，号曰「月德临门」。宜副将出阵，可得地五千里，宜兑宫坐营，出军东方，向西而行，有雷炮声应，大吉。",
+   "qi": "丁",
+   "gate": "杜门",
+   "star": "天禽",
+   "god": "勾陈",
+   "name": "月德临门",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 69,
+   "text": "丁奇同九天、天任星临景门，号曰「天德照门」。利副将出师，军行五里遇伏兵，不可战，行二里东方有火光，不利。",
+   "qi": "丁",
+   "gate": "景门",
+   "star": "天任",
+   "god": "九天",
+   "name": "天德照门",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 70,
+   "text": "丁奇同九地、柱星临死门，号曰「阴阳不交」。主大将出师，有弓矢之灾。军出不宜北方，利西南方，坐营艮宫，其灾可免。行三里有公差骑马，大吉。",
+   "qi": "丁",
+   "gate": "死门",
+   "star": "天柱",
+   "god": "九地",
+   "name": "阴阳不交",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 71,
+   "text": "丁奇同九天、任星临惊门，号曰「三台得位」。出师大胜，宜艮宫出军，坎宫坐营可，军千乘地千里，出门有微雨，大吉。",
+   "qi": "丁",
+   "gate": "惊门",
+   "star": "天任",
+   "god": "九天",
+   "name": "三台得位",
+   "docPath": "qmmj/book/juan29.md"
+  },
+  {
+   "no": 72,
+   "text": "丁奇同勾陈、辅星临开门，号曰「瑞生九鼎」。主出师大胜，四方皆利，得城池、土地并得上将首级。军行三里有白云自西北方来，东方风起，皆大利。",
+   "qi": "丁",
+   "gate": "开门",
+   "star": "天辅",
+   "god": "勾陈",
+   "name": "瑞生九鼎",
+   "docPath": "qmmj/book/juan29.md"
+  }
+ ],
+ "textualIssues": []
+}

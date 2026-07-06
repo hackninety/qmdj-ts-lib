@@ -33,8 +33,7 @@
     "extract": "node scripts/extract-ctext.mjs docs/corpus/qmmj",
     "gen": "node scripts/gen-data.mjs",
     "build": "node scripts/build.mjs",
-    "test": "vitest run",
-    "prepare": "npm run build"
+    "test": "vitest run"
   },
   "keywords": [
     "qimen",
