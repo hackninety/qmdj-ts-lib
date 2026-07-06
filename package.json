@@ -1,0 +1,51 @@
+{
+  "name": "qmdj-ts-lib",
+  "version": "0.1.0",
+  "description": "奇门遁甲典籍语料库（首册《奇門遁甲秘笈大全》旧题明·刘伯温辑，附《諸葛武侯行兵遁甲金函玉鏡》残卷）— Qimen Dunjia classics corpus",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./docs": {
+      "types": "./dist/docs.d.ts",
+      "import": "./dist/docs.js",
+      "default": "./dist/docs.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "INTEGRATION.md"
+  ],
+  "scripts": {
+    "fetch": "node scripts/fetch-ctext.mjs",
+    "extract": "node scripts/extract-ctext.mjs docs/corpus/qmmj",
+    "gen": "node scripts/gen-data.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "vitest run",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "qimen",
+    "qimendunjia",
+    "奇门遁甲",
+    "奇門遁甲秘笈大全",
+    "刘伯温",
+    "金函玉镜",
+    "典籍语料库",
+    "corpus",
+    "古籍"
+  ],
+  "author": "hackninety",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "~5.9.3",
+    "vitest": "^3.2.4"
+  }
+}
