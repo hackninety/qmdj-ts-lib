@@ -1,7 +1,7 @@
 {
   "name": "qmdj-ts-lib",
-  "version": "0.1.0",
-  "description": "奇门遁甲典籍语料库（首册《奇門遁甲秘笈大全》旧题明·刘伯温辑，附《諸葛武侯行兵遁甲金函玉鏡》残卷）— Qimen Dunjia classics corpus",
+  "version": "0.2.0",
+  "description": "奇门遁甲典籍语料库：《奇門遁甲秘笈大全》（附金函玉鏡残卷）《遁甲演義》（四庫本）《奇門遁甲統宗》《奇门宝鉴（御定）》，节级结构化 + 盘面克应检索 + 占目库 + 格局多书互证 — Qimen Dunjia classics corpus",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -35,6 +35,7 @@
   ],
   "scripts": {
     "fetch": "node scripts/fetch-ctext.mjs",
+    "fetch:wikisource": "node scripts/fetch-wikisource.mjs",
     "extract": "node scripts/extract-ctext.mjs docs/corpus/qmmj",
     "gen": "node scripts/gen-data.mjs",
     "build": "node scripts/build.mjs",
@@ -45,6 +46,9 @@
     "qimendunjia",
     "奇门遁甲",
     "奇門遁甲秘笈大全",
+    "遁甲演義",
+    "奇門遁甲統宗",
+    "奇门宝鉴",
     "刘伯温",
     "金函玉镜",
     "典籍语料库",

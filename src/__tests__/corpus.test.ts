@@ -3,29 +3,31 @@ import { getBooks } from '../index';
 import { getDocMarkdown, getDocsManifest, getSections, searchDocs } from '../docs';
 
 describe('语料库目录', () => {
-  it('33 篇文档，path 均带 qmmj 前缀', () => {
+  it('45 篇文档，path 前缀限于在册书 slug', () => {
     const manifest = getDocsManifest();
-    expect(manifest).toHaveLength(33);
+    expect(manifest).toHaveLength(45);
     for (const m of manifest) {
-      expect(m.path.startsWith('qmmj/')).toBe(true);
+      expect(m.path).toMatch(/^(qmmj|dyyy|tz|bj)\//);
       expect(m.title).toBeTruthy();
       expect(m.book).toBeTruthy();
     }
   });
 
-  it('两部书：秘笈大全 31 篇 + 金函玉镜 2 篇，节数合计一致', () => {
+  it('五部书：秘笈 31 + 金函玉镜 2 + 演義 4 + 統宗 7 + 宝鉴 1，节数合计一致', () => {
     const books = getBooks();
-    expect(books).toHaveLength(2);
-    const main = books.find((b) => b.book === '奇门遁甲秘笈大全');
-    const jhyj = books.find((b) => b.book === '金函玉镜（附）');
-    expect(main?.docCount).toBe(31);
-    expect(jhyj?.docCount).toBe(2);
-    expect((main?.sectionCount ?? 0) + (jhyj?.sectionCount ?? 0)).toBe(getSections().length);
+    expect(books).toHaveLength(5);
+    const count = (name: string) => books.find((b) => b.book.includes(name));
+    expect(count('秘笈大全')?.docCount).toBe(31);
+    expect(count('金函玉镜')?.docCount).toBe(2);
+    expect(count('遁甲演義')?.docCount).toBe(4);
+    expect(count('統宗')?.docCount).toBe(7);
+    expect(count('宝鉴')?.docCount).toBe(1);
+    expect(books.reduce((s, b) => s + b.sectionCount, 0)).toBe(getSections().length);
   });
 
-  it('节级目录 ≥ 700 节且 order 严格递增', () => {
+  it('节级目录 ≥ 950 节且 order 严格递增', () => {
     const sections = getSections();
-    expect(sections.length).toBeGreaterThanOrEqual(700);
+    expect(sections.length).toBeGreaterThanOrEqual(950);
     for (let i = 0; i < sections.length; i++) {
       expect(sections[i].order).toBe(i + 1);
       expect(sections[i].title).toBeTruthy();
@@ -52,15 +54,27 @@ describe('文档读取', () => {
     expect(await getDocMarkdown('qmmj/book/nope.md')).toBeUndefined();
     expect(await getDocMarkdown('xxxx/book/juan01.md')).toBeUndefined();
   });
+
+  it('维基文库续册可读：演義卷二（繁体+SKQS 回填）/統宗卷之一/宝鉴释义', async () => {
+    const dyyy = await getDocMarkdown('dyyy/book/juan2.md');
+    expect(dyyy).toContain('# 遁甲演義 卷二');
+    expect(dyyy).toContain('## 飛鳥跌穴');
+    const dyyy1 = await getDocMarkdown('dyyy/book/juan1.md');
+    expect(dyyy1).toContain('七十二候'); // SKchar 1974 → 候 已回填
+    const tz = await getDocMarkdown('tz/book/juan01.md');
+    expect(tz).toContain('## 奇门四十格');
+    const bj = await getDocMarkdown('bj/book/full.md');
+    expect(bj).toContain('## 【释三奇得使】');
+  });
 });
 
 describe('全文检索', () => {
-  it('单关键词命中并携带上下文', async () => {
+  it('单关键词命中并携带上下文（多书均可命中）', async () => {
     const hits = await searchDocs('飞鸟跌穴');
     expect(hits.length).toBeGreaterThan(0);
     for (const h of hits) {
       expect(h.text).toContain('飞鸟跌穴');
-      expect(h.docPath.startsWith('qmmj/')).toBe(true);
+      expect(h.docPath).toMatch(/^(qmmj|dyyy|tz|bj)\//);
       expect(h.docTitle).toBeTruthy();
     }
   });

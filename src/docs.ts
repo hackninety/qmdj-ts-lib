@@ -14,9 +14,12 @@ export type { DocMeta, SearchHit, SearchOptions, SectionMeta } from './types';
 const manifest = (manifestData as unknown as { manifest: DocMeta[] }).manifest;
 const sections = (sectionsData as unknown as { sections: SectionMeta[] }).sections;
 
-/** 各书载荷加载器（新书登记于此，与 gen-data CORPUS 对应） */
+/** 各书载荷加载器（新书登记于此，与 gen-data 书目注册表对应） */
 const LOADERS: Record<string, () => Promise<{ payload: { docs: Record<string, string> } }>> = {
   qmmj: () => import('./books/qmmj'),
+  dyyy: () => import('./books/dyyy'),
+  tz: () => import('./books/tz'),
+  bj: () => import('./books/bj'),
 };
 
 const cache = new Map<string, Record<string, string>>();

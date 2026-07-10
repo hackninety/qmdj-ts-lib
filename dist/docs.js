@@ -9,9 +9,12 @@ import manifestData from './data/docs-manifest.json' with { type: 'json' };
 import sectionsData from './data/sections.json' with { type: 'json' };
 const manifest = manifestData.manifest;
 const sections = sectionsData.sections;
-/** 各书载荷加载器（新书登记于此，与 gen-data CORPUS 对应） */
+/** 各书载荷加载器（新书登记于此，与 gen-data 书目注册表对应） */
 const LOADERS = {
     qmmj: () => import('./books/qmmj.js'),
+    dyyy: () => import('./books/dyyy.js'),
+    tz: () => import('./books/tz.js'),
+    bj: () => import('./books/bj.js'),
 };
 const cache = new Map();
 async function loadBook(slug) {

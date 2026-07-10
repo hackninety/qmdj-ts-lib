@@ -35,7 +35,8 @@ export function lookupChart(input) {
     const refs = [];
     const seen = new Set();
     const push = (r) => {
-        const id = `${r.kind}|${r.key}|${r.gong ?? ''}`;
+        // docPath 参与去重：同一键的多书断语（多书互证）各自保留，同书同键仍去重
+        const id = `${r.kind}|${r.key}|${r.gong ?? ''}|${r.docPath}`;
         if (seen.has(id))
             return;
         seen.add(id);

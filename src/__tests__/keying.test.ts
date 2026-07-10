@@ -86,6 +86,19 @@ describe('lookupChart 盘面检索', () => {
     expect(new Set(ids).size).toBe(ids.length);
   });
 
+  it('多书互证：同格多书断语并出（飞鸟跌穴 ≥3 源），docPath 区分书源', () => {
+    expect(keying.geju.length).toBeGreaterThanOrEqual(120);
+    const refs = lookupChart({ palaces: [], patterns: ['飞鸟跌穴'] });
+    const sources = refs.filter((r) => r.name === '飞鸟跌穴').map((r) => r.docPath);
+    expect(sources.length).toBeGreaterThanOrEqual(3);
+    expect(sources).toContain('qmmj/book/juan15.md');
+    expect(sources).toContain('dyyy/book/juan2.md');
+    expect(sources).toContain('tz/book/juan01.md');
+    // 五不遇时：宝鉴释义也并入
+    const wby = lookupChart({ palaces: [], patterns: ['五不遇时格'] }).filter((r) => r.name === '五不遇时格');
+    expect(wby.map((r) => r.docPath)).toContain('bj/book/full.md');
+  });
+
   it('底本残注存疑标记：七十二局第31局「蛇入龙穴」（含「俟查」）带 uncertain', () => {
     // 丙奇同太阴临惊门（第31局无星要求，宽松命中）
     const refs = lookupChart({

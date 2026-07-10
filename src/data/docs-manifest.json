@@ -263,6 +263,102 @@
    "book": "金函玉镜（附）",
    "dynasty": "蜀（旧题）",
    "author": "旧题蜀·诸葛亮"
+  },
+  {
+   "path": "dyyy/book/juan1.md",
+   "title": "卷一 · 遁甲源流（14节）",
+   "group": "book",
+   "book": "遁甲演義（四庫全書本）",
+   "dynasty": "明",
+   "author": "明·程道生"
+  },
+  {
+   "path": "dyyy/book/juan2.md",
+   "title": "卷二 · 竒門吉格（44节）",
+   "group": "book",
+   "book": "遁甲演義（四庫全書本）",
+   "dynasty": "明",
+   "author": "明·程道生"
+  },
+  {
+   "path": "dyyy/book/juan3.md",
+   "title": "卷三 · 九星所屬（31节）",
+   "group": "book",
+   "book": "遁甲演義（四庫全書本）",
+   "dynasty": "明",
+   "author": "明·程道生"
+  },
+  {
+   "path": "dyyy/book/juan4.md",
+   "title": "卷四 · 隂陽二遁十八局圖列後（9节）",
+   "group": "book",
+   "book": "遁甲演義（四庫全書本）",
+   "dynasty": "明",
+   "author": "明·程道生"
+  },
+  {
+   "path": "tz/book/juanshou.md",
+   "title": "卷首 · 奇门遁甲统宗源流（3节）",
+   "group": "book",
+   "book": "奇門遁甲統宗",
+   "dynasty": "明",
+   "author": "佚名（明代汇编）"
+  },
+  {
+   "path": "tz/book/juan01.md",
+   "title": "卷之一 · 奇门秘诀总赋（16节）",
+   "group": "book",
+   "book": "奇門遁甲統宗",
+   "dynasty": "明",
+   "author": "佚名（明代汇编）"
+  },
+  {
+   "path": "tz/book/juan02.md",
+   "title": "卷之二 · 奇门妙秘赋（6节）",
+   "group": "book",
+   "book": "奇門遁甲統宗",
+   "dynasty": "明",
+   "author": "佚名（明代汇编）"
+  },
+  {
+   "path": "tz/book/juan03.md",
+   "title": "卷之三 · 天干类神（19节）",
+   "group": "book",
+   "book": "奇門遁甲統宗",
+   "dynasty": "明",
+   "author": "佚名（明代汇编）"
+  },
+  {
+   "path": "tz/book/juan10.md",
+   "title": "卷之十",
+   "group": "book",
+   "book": "奇門遁甲統宗",
+   "dynasty": "明",
+   "author": "佚名（明代汇编）"
+  },
+  {
+   "path": "tz/book/juan11.md",
+   "title": "卷之十一",
+   "group": "book",
+   "book": "奇門遁甲統宗",
+   "dynasty": "明",
+   "author": "佚名（明代汇编）"
+  },
+  {
+   "path": "tz/book/juan12.md",
+   "title": "卷之十二",
+   "group": "book",
+   "book": "奇門遁甲統宗",
+   "dynasty": "明",
+   "author": "佚名（明代汇编）"
+  },
+  {
+   "path": "bj/book/full.md",
+   "title": "全帙 · 奇门源流（55节）",
+   "group": "book",
+   "book": "奇门宝鉴（御定）",
+   "dynasty": "清",
+   "author": "清敕撰汇编（页题唐·徐道符）"
   }
  ]
 }

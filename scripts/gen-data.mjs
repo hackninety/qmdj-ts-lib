@@ -1,18 +1,21 @@
 /**
- * 语料生成（奇门遁甲典籍语料库；书目见 CHAPTERS 注册表）
- *   docs/corpus/qmmj/text/*.txt（ctext 转录提取稿）
+ * 语料生成（奇门遁甲典籍语料库；书目见 CHAPTERS 与 NEW_BOOKS 注册表）
+ *   docs/corpus/<slug>/text/*.txt（qmmj 为 ctext 转录；余书为维基文库转录，
+ *   经 scripts/fetch-wikisource.mjs 抓取清洗）
  *   → src/data/docs-manifest.json （全库篇目：path 带 slug 前缀，携 book/dynasty）
- *   → src/data/docs-qmmj.json     （markdown 载荷，按书分包懒加载）
+ *   → src/data/docs-<slug>.json   （markdown 载荷，按书分包懒加载）
  *   → src/data/sections.json      （节级目录：全库小节索引，深度结构化主产物）
- *   → docs/structured/qmmj/*.md   （人读版结构化 markdown，与载荷同源）
+ *   → docs/structured/<slug>/*.md （人读版结构化 markdown，与载荷同源）
  *
- * 首册：《奇門遁甲秘笈大全》三十卷（旧题明·刘伯温辑，ctext.org wiki res=953105，
- * 简体转录），附《諸葛武侯行兵遁甲金函玉鏡》残卷（卷一、卷六）。
+ * 在册书目：
+ *   qmmj 《奇門遁甲秘笈大全》三十卷（旧题明·刘伯温辑）附《金函玉鏡》残卷
+ *   dyyy 《遁甲演義》四卷（明·程道生，四庫全書本，繁体）
+ *   tz   《奇門遁甲統宗》（明代汇编；卷之四～九局图表底本即略）
+ *   bj   《奇门宝鉴（御定）》（清御定汇编，页题唐·徐道符）
  *
- * 结构化口径：本书为汇编体操作手册，节题皆为无标点独立短行（占目/克应/歌诀/
- * 七十二局/符箓/数占…）。经全量短行聚类核对（604 类），除 DENY 清单外的
- * 2–14 字无标点独行均判为节题；版面碎片/落款/注文行入 DENY 照录为段落，
- * 不臆断重构，不改字。
+ * 结构化口径：诸书均为汇编体，节题为无标点独立短行（dyyy 的节题出自四庫本
+ * {{SK anchor}} 锚点）。除各书 DENY 清单外的 2–14 字无标点独行判为节题；
+ * 版面碎片/引文导语/韵文误立行入 DENY 照录为段落，不臆断重构，不改字。
  */
 import { mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
@@ -126,13 +129,117 @@ for (const ch of CHAPTERS) {
   console.log(`${ch.path}: ${(md.length / 1024).toFixed(0)}KB，${secTitles.length} 节`);
 }
 
+// ═══════════════ 维基文库续册（NEW_BOOKS 注册表；文本约定与 qmmj 一致） ═══════════════
+const NEW_BOOKS = [
+  {
+    slug: 'dyyy',
+    book: '遁甲演義（四庫全書本）',
+    dynasty: '明',
+    author: '明·程道生',
+    provenance:
+      '> 底本：维基文库《遁甲演義》四庫全書本（明·程道生撰，繁体）转录；SKQS 罕字已按平行转录本与渲染字形核定回填（对照表见 scripts/fetch-wikisource.mjs SKCHAR）。',
+    // 引文导语/换行断片/韵文行（四庫本扫描行宽断行所致），照录为段落
+    deny: new Set([
+      '以授時厯看審訂太陽過', '宫方可選用大衝天馬方', '術曰', '呪曰', '玉女咒曰', '右禹罡呪訖',
+      '經曰緩則從門急則從神', '當行玉女反閉之法以全億萬軍人', '若午日即從午上命上第一籌',
+      '牛入兎園食甘草', '猛虎逡巡入巳位', '兎入牛欄伏不起', '龍入馬廏因留止', '蛇行宛轉來申裏',
+      '祝曰維', '甲子旬', '三元經曰初出天門', '凡出行百惡不敢起大吉',
+    ]),
+    minSections: 80,
+    chapters: [1, 2, 3, 4].map((n) => ({
+      file: `0${n}-juan${n}.txt`,
+      path: `dyyy/book/juan${n}.md`,
+      juan: `卷${juanCn(n)}`,
+      h1: `遁甲演義 卷${juanCn(n)}`,
+    })),
+  },
+  {
+    slug: 'tz',
+    book: '奇門遁甲統宗',
+    dynasty: '明',
+    author: '佚名（明代汇编）',
+    provenance: '> 底本：维基文库《奇門遁甲統宗》（明代汇编，简体转录；卷之四～九为阴阳十八局图表，底本即略）。',
+    deny: new Set([]),
+    minSections: 35,
+    chapters: [
+      { file: '01-juanshou.txt', path: 'tz/book/juanshou.md', juan: '卷首', h1: '奇門遁甲統宗 卷首（序·源流·凡例·目录）' },
+      ...[['02-juan01', '一'], ['03-juan02', '二'], ['04-juan03', '三'], ['05-juan10', '十'], ['06-juan11', '十一'], ['07-juan12', '十二']].map(
+        ([f, cn]) => ({ file: `${f}.txt`, path: `tz/book/${f.slice(3)}.md`, juan: `卷之${cn}`, h1: `奇門遁甲統宗 卷之${cn}` }),
+      ),
+    ],
+  },
+  {
+    slug: 'bj',
+    book: '奇门宝鉴（御定）',
+    dynasty: '清',
+    author: '清敕撰汇编（页题唐·徐道符）',
+    provenance: '> 底本：维基文库《奇门宝鉴御定》（清御定汇编，页题唐·徐道符，简体转录）。释义四十四则以【释…】括题分节。',
+    deny: new Set([]),
+    minSections: 45,
+    chapters: [{ file: '01-full.txt', path: 'bj/book/full.md', juan: '全帙', h1: '奇门宝鉴（御定）' }],
+  },
+];
+
+for (const nb of NEW_BOOKS) {
+  const nbTextDir = path.join(root, `docs/corpus/${nb.slug}/text`);
+  const nbStructuredDir = path.join(root, `docs/structured/${nb.slug}`);
+  mkdirSync(nbStructuredDir, { recursive: true });
+  const nbDocs = {};
+  let nbSections = 0;
+
+  for (const ch of nb.chapters) {
+    const lines = readFileSync(path.join(nbTextDir, ch.file), 'utf8')
+      .split(/\r?\n/)
+      .map((l) => l.trim())
+      .filter(Boolean);
+
+    const body = [];
+    const secTitles = [];
+    for (const line of lines) {
+      if (HEAD_RE.test(line) && !nb.deny.has(line) && !RUN_RE.test(line)) {
+        body.push(`## ${line}`);
+        secTitles.push(line);
+        sections.push({ docPath: ch.path, juan: ch.juan, title: line, order: ++orderSeq });
+        continue;
+      }
+      body.push(line);
+    }
+    if (!body.length) {
+      console.error(`✗ ${nb.slug}/${ch.file} 内容为空`);
+      process.exit(1);
+    }
+
+    const md = [`# ${ch.h1}`, '', nb.provenance, '', body.join('\n\n')].join('\n');
+    nbDocs[ch.path] = md;
+    nbSections += secTitles.length;
+
+    manifest.push({
+      path: ch.path,
+      title: secTitles.length ? `${ch.juan} · ${secTitles[0]}${secTitles.length > 1 ? `（${secTitles.length}节）` : ''}` : ch.juan,
+      group: 'book',
+      book: nb.book,
+      dynasty: nb.dynasty,
+      author: nb.author,
+    });
+    console.log(`${ch.path}: ${(md.length / 1024).toFixed(0)}KB，${secTitles.length} 节`);
+    writeFileSync(path.join(nbStructuredDir, path.basename(ch.path)), md, 'utf8');
+  }
+
+  if (nbSections < nb.minSections) {
+    console.error(`✗ ${nb.slug} 节数 ${nbSections} < ${nb.minSections}`);
+    process.exit(1);
+  }
+  writeFileSync(path.join(outDir, `docs-${nb.slug}.json`), JSON.stringify({ docs: nbDocs }, null, 1), 'utf8');
+}
+
 // ---------- 校验 ----------
-if (manifest.length !== 33) {
-  console.error(`✗ 篇目数 ${manifest.length} ≠ 33`);
+const EXPECT_DOCS = 33 + NEW_BOOKS.reduce((s, b) => s + b.chapters.length, 0);
+if (manifest.length !== EXPECT_DOCS) {
+  console.error(`✗ 篇目数 ${manifest.length} ≠ ${EXPECT_DOCS}`);
   process.exit(1);
 }
-if (sections.length < 500) {
-  console.error(`✗ 节数 ${sections.length} 异常偏少（预期 ≥500）`);
+if (sections.length < 700) {
+  console.error(`✗ 节数 ${sections.length} 异常偏少（预期 ≥700）`);
   process.exit(1);
 }
 const dup = sections.filter((s, i) => i && sections[i - 1].docPath === s.docPath && sections[i - 1].title === s.title);
@@ -150,7 +257,7 @@ for (const [p, md] of Object.entries(docs)) {
 }
 
 const total = Object.values(docs).reduce((s, d) => s + d.length, 0);
-console.log(`docs-manifest.json: ${manifest.length} 篇；sections.json: ${sections.length} 节；载荷 ${(total / 1024).toFixed(0)}KB`);
+console.log(`docs-manifest.json: ${manifest.length} 篇；sections.json: ${sections.length} 节；qmmj 载荷 ${(total / 1024).toFixed(0)}KB`);
 
 // ═══════════════ 盘面克应库（keying.json）：盘面要素 → 原文断语 ═══════════════
 // 深度结构化分支：十干克应 / 八门静·动应 / 九星总断与值时 / 三奇到宫 /
@@ -402,6 +509,113 @@ console.log(`docs-manifest.json: ${manifest.length} 篇；sections.json: ${secti
     }
   }
 
+  // ---------- 6.5 多书互证：同格多书断语 ----------
+  // 《遁甲演義》卷二（格局逐节，繁体）/《統宗》卷之一「奇门四十格」（格名+构成表）/
+  // 《宝鉴》释义四十四则（【释X】概念条）→ 与 qmmj 吉凶格局同名者增源并入 geju，
+  // docPath 区分书源；未匹配者不并（不臆断跨书对齐）。
+  {
+    const T2S = {
+      飛: '飞', 鳥: '鸟', 龍: '龙', 門: '门', 竒: '奇', 熒: '荧', 雲: '云', 風: '风',
+      嵗: '岁', 時: '时', 並: '并', 隂: '阴', 陽: '阳', 儀: '仪', 擊: '击', 網: '网',
+    };
+    const t2s = (s) => [...s].map((c) => T2S[c] ?? c).join('');
+    const stripGe = (s) => s.replace(/格$/, '');
+    /** 异名对齐（书间同格异名/略称/异体），值可为多目标 */
+    const ALIAS = {
+      五不遇: '五不遇时格',
+      螣蛇跃蹻: '螣蛇妖矫',
+      朱雀入江: '朱雀投江',
+      荧入白: '荧惑入太白',
+      白入荧: '太白入荧惑',
+      大隔: '大格', 刑隔: '刑格', 勃隔: '悖格', 小隔并岁隔月隔日隔时隔: '小格',
+      龙回首: '青龙回首格', 鸟跌穴: '飞鸟跌穴', 龙逃走: '青龙逃走', 虎猖狂: '白虎猖狂',
+      蛇夭矫: '螣蛇妖矫', 雀投江: '朱雀投江',
+      六仪击刑: '六仪刑击格', 天网: '天网四张', 迫: '迫制和义格',
+      奇墓奇制与日时干墓同凶: '奇墓格',
+      反吟伏吟: ['伏吟格', '反吟格'],
+    };
+    const byName = new Map(geju.map((e) => [stripGe(e.name), e]));
+    const resolveGeju = (raw) => {
+      const t = ALIAS[t2s(raw)] ?? t2s(raw);
+      return (Array.isArray(t) ? t : [t]).map((n) => byName.get(stripGe(n))).filter(Boolean);
+    };
+    const cross = [];
+    let unmatched = 0;
+
+    /** 通用节切分：HEAD_RE 节题行 → {title, body} */
+    const sectionsOf = (file, dir, deny = new Set()) => {
+      const out = [];
+      let cur = null;
+      for (const line of readFileSync(path.join(root, dir, file), 'utf8').split(/\r?\n/).map((l) => l.trim()).filter(Boolean)) {
+        if (HEAD_RE.test(line) && !deny.has(line) && !RUN_RE.test(line)) {
+          cur = { title: line, body: [] };
+          out.push(cur);
+          continue;
+        }
+        cur?.body.push(line);
+      }
+      return out;
+    };
+
+    // A. 遁甲演義卷二：格局逐节（歌曰/經曰断语自足）
+    const dyyyDeny = NEW_BOOKS.find((b) => b.slug === 'dyyy').deny;
+    for (const sec of sectionsOf('02-juan2.txt', 'docs/corpus/dyyy/text', dyyyDeny)) {
+      const hits = resolveGeju(sec.title);
+      if (!hits.length) { unmatched++; continue; }
+      for (const hit of hits) {
+        cross.push({ name: hit.name, kind: hit.kind, text: sec.body.join('\n'), docPath: 'dyyy/book/juan2.md' });
+      }
+    }
+    const dyyyN = cross.length;
+
+    // B. 統宗卷之一「奇门四十格」：格名 + 构成条件表
+    {
+      const lines = readFileSync(path.join(root, 'docs/corpus/tz/text/02-juan01.txt'), 'utf8').split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+      const seg = slice(lines, /^奇门四十格$/, /^八节应八门旺相$/).slice(1);
+      for (const line of seg) {
+        const m = line.match(/^(\S{2,10})\s{2,}(.+)$/);
+        if (!m) continue;
+        const hits = resolveGeju(m[1]);
+        if (!hits.length) { unmatched++; continue; }
+        for (const hit of hits) {
+          cross.push({ name: hit.name, kind: hit.kind, text: `${m[1]}：${m[2]}`, docPath: 'tz/book/juan01.md' });
+        }
+      }
+    }
+    const tzN = cross.length - dyyyN;
+
+    // C. 宝鉴释义四十四则：【释X】概念条
+    {
+      let cur = null;
+      const secs = [];
+      for (const line of readFileSync(path.join(root, 'docs/corpus/bj/text/01-full.txt'), 'utf8').split(/\r?\n/).map((l) => l.trim()).filter(Boolean)) {
+        const m = line.match(/^【[释辨](.+?)】$/);
+        if (m) {
+          cur = { title: m[1], body: [] };
+          secs.push(cur);
+          continue;
+        }
+        if (HEAD_RE.test(line)) { cur = null; continue; } // 出释义区
+        cur?.body.push(line);
+      }
+      for (const sec of secs) {
+        const hits = resolveGeju(sec.title);
+        if (!hits.length) { unmatched++; continue; }
+        for (const hit of hits) {
+          cross.push({ name: hit.name, kind: hit.kind, text: sec.body.join('\n'), docPath: 'bj/book/full.md' });
+        }
+      }
+    }
+    const bjN = cross.length - dyyyN - tzN;
+
+    geju.push(...cross);
+    console.log(`keying/geju 多书互证: +${cross.length} 条（演義 ${dyyyN} / 統宗 ${tzN} / 宝鉴 ${bjN}；未对齐照录原书 ${unmatched} 节）`);
+    if (cross.length < 40) {
+      console.error(`✗ 多书互证条数 ${cross.length} 异常偏少（预期 ≥40）`);
+      process.exit(1);
+    }
+  }
+
   // ---------- 7. 七十二局吉格（卷二十九）：奇+星+门组合 ----------
   const ju72 = [];
   {
@@ -471,7 +685,8 @@ console.log(`docs-manifest.json: ${manifest.length} 篇；sections.json: ${secti
     path.join(outDir, 'keying.json'),
     JSON.stringify(
       {
-        source: 'ctext.org wiki res=953105《奇門遁甲秘笈大全》（卷二/四/五/十五/十六/十七/二十九 深度结构化）',
+        source:
+          'ctext.org res=953105《奇門遁甲秘笈大全》（卷二/四/五/十五/十六/十七/二十九 深度结构化）+ 维基文库《遁甲演義》《奇門遁甲統宗》《奇门宝鉴御定》格局互证（geju 按 docPath 区分书源）',
         shiGan: shiGan.map((e) => ({ ...e, docPath: 'qmmj/book/juan02.md' })),
         shiJiaGe: shiJiaGe.map((e) => ({ ...e, docPath: 'qmmj/book/juan02.md' })),
         menZong,
@@ -480,7 +695,7 @@ console.log(`docs-manifest.json: ${manifest.length} 篇；sections.json: ${secti
         xingShi: xingShi.map((e) => ({ ...e, docPath: 'qmmj/book/juan17.md' })),
         sanQiGong,
         baShen: baShen.map((e) => ({ ...e, docPath: 'qmmj/book/juan16.md' })),
-        geju: geju.map((e) => ({ ...e, docPath: 'qmmj/book/juan15.md' })),
+        geju: geju.map((e) => ({ docPath: 'qmmj/book/juan15.md', ...e })), // 互证条目自带书源 docPath，qmmj 原条目回落卷十五
         markVerses: markVerses.map((e) => ({ ...e, docPath: 'qmmj/book/juan15.md' })),
         ju72: ju72.map((e) => ({ ...e, docPath: 'qmmj/book/juan29.md' })),
         textualIssues: issues,
