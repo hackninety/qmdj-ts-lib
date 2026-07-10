@@ -117,12 +117,9 @@ export interface CanonRef {
     text: string;
     /** 典籍深链 path（qmmj/book/juanXX.md） */
     docPath: string;
+    /** 原文存疑：底本抄本带「俟查」「当须查考」等残注（如七十二局第31/32/52局），引用时应提示 */
+    uncertain?: boolean;
 }
-/**
- * 按盘面要素检索典籍断语。
- * 命中去重（kind+key+gong），顺序：逐宫（十干克应→门→星→三奇→八神→七十二局）
- * → 值时/时干 → 格局 → 标记歌诀。
- */
 export declare function lookupChart(input: ChartLookupInput): CanonRef[];
 /** 九星总断（按星取，供星义面板/导出） */
 export declare function getStarLore(star: string): XingZongEntry | undefined;

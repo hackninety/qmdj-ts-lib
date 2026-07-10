@@ -85,4 +85,17 @@ describe('lookupChart 盘面检索', () => {
     const ids = refs.map((r) => `${r.kind}|${r.key}|${r.gong}`);
     expect(new Set(ids).size).toBe(ids.length);
   });
+
+  it('底本残注存疑标记：七十二局第31局「蛇入龙穴」（含「俟查」）带 uncertain', () => {
+    // 丙奇同太阴临惊门（第31局无星要求，宽松命中）
+    const refs = lookupChart({
+      palaces: [{ gong: 7, tianPanGan: ['丙'], diPanGan: ['庚'], star: '天柱', gate: '惊门', god: '太阴' }],
+    });
+    const hit = refs.find((r) => r.name === '蛇入龙穴');
+    expect(hit).toBeDefined();
+    expect(hit?.uncertain).toBe(true);
+    // 无残注的条目不带该标记
+    const clean = refs.find((r) => r.kind === '十干克应');
+    expect(clean?.uncertain).toBeUndefined();
+  });
 });

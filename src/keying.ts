@@ -76,6 +76,8 @@ export interface CanonRef {
   text: string;
   /** 典籍深链 path（qmmj/book/juanXX.md） */
   docPath: string;
+  /** 原文存疑：底本抄本带「俟查」「当须查考」等残注（如七十二局第31/32/52局），引用时应提示 */
+  uncertain?: boolean;
 }
 
 /** 宫号 → 八卦（洛书） */
@@ -99,6 +101,9 @@ const ganKey = (g: string) => (g === '戊' ? '甲戊' : g);
  * 命中去重（kind+key+gong），顺序：逐宫（十干克应→门→星→三奇→八神→七十二局）
  * → 值时/时干 → 格局 → 标记歌诀。
  */
+/** 底本残注（存疑标记）：命中即标 uncertain，所有类别统一在 push 汇合点判定 */
+const UNCERTAIN_RE = /俟查|当须查考|待考|存疑/;
+
 export function lookupChart(input: ChartLookupInput): CanonRef[] {
   const refs: CanonRef[] = [];
   const seen = new Set<string>();
@@ -106,6 +111,7 @@ export function lookupChart(input: ChartLookupInput): CanonRef[] {
     const id = `${r.kind}|${r.key}|${r.gong ?? ''}`;
     if (seen.has(id)) return;
     seen.add(id);
+    if (UNCERTAIN_RE.test(r.text)) r.uncertain = true;
     refs.push(r);
   };
 

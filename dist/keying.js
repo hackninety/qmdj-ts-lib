@@ -29,6 +29,8 @@ const ganKey = (g) => (g === '戊' ? '甲戊' : g);
  * 命中去重（kind+key+gong），顺序：逐宫（十干克应→门→星→三奇→八神→七十二局）
  * → 值时/时干 → 格局 → 标记歌诀。
  */
+/** 底本残注（存疑标记）：命中即标 uncertain，所有类别统一在 push 汇合点判定 */
+const UNCERTAIN_RE = /俟查|当须查考|待考|存疑/;
 export function lookupChart(input) {
     const refs = [];
     const seen = new Set();
@@ -37,6 +39,8 @@ export function lookupChart(input) {
         if (seen.has(id))
             return;
         seen.add(id);
+        if (UNCERTAIN_RE.test(r.text))
+            r.uncertain = true;
         refs.push(r);
     };
     for (const p of input.palaces ?? []) {
