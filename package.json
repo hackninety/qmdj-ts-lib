@@ -21,6 +21,11 @@
       "types": "./dist/keying.d.ts",
       "import": "./dist/keying.js",
       "default": "./dist/keying.js"
+    },
+    "./zhanmu": {
+      "types": "./dist/zhanmu.d.ts",
+      "import": "./dist/zhanmu.js",
+      "default": "./dist/zhanmu.js"
     }
   },
   "files": [

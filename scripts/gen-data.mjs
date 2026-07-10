@@ -491,3 +491,120 @@ console.log(`docs-manifest.json: ${manifest.length} 篇；sections.json: ${secti
     'utf8',
   );
 }
+
+// ═══════════════ 占目库（zhanmu.json）：占类 → 断法原文 ═══════════════
+// 深度结构化分支二：
+//   卷七~卷十  具体占目（占投军…占立窑，一题一法）
+//   卷十一~十四 分类论断（X占 → 论干支/值符/值使/十干/九星/九宫/门户/三甲/吉凶格）
+// 宿主按「所占何事」取对应古法喂 AI。家宅占等底本收两套论断，照收不并。
+{
+  const readLines2 = (f) =>
+    readFileSync(path.join(textDir, f), 'utf8').split(/\r?\n/).map((l) => l.trim()).filter(Boolean);
+  const isHead = (l) => HEAD_RE.test(l) && !DENY.has(l) && !RUN_RE.test(l);
+
+  // ---------- 卷七~十：具体占目 ----------
+  const zhanMu = [];
+  for (const [file, dp] of [
+    ['07-juan07.txt', 'qmmj/book/juan07.md'],
+    ['08-juan08.txt', 'qmmj/book/juan08.md'],
+    ['09-juan09.txt', 'qmmj/book/juan09.md'],
+    ['10-juan10.txt', 'qmmj/book/juan10.md'],
+  ]) {
+    let cur = null;
+    for (const line of readLines2(file)) {
+      if (isHead(line)) {
+        cur = { title: line, text: [], docPath: dp };
+        zhanMu.push(cur);
+        continue;
+      }
+      if (cur) cur.text.push(line);
+    }
+  }
+  for (const e of zhanMu) e.text = e.text.join('\n');
+  const zhanMuEmpty = zhanMu.filter((e) => !e.text);
+  if (zhanMuEmpty.length) {
+    console.error('✗ 占目空节:', zhanMuEmpty.map((e) => e.title).join('、'));
+    process.exit(1);
+  }
+
+  // ---------- 卷十一~十四：分类论断 ----------
+  const TOPIC_RE = /^([^，。：；、\s]{1,4})占$/;
+  /** 论断方面白名单（含「论/又论/又」前缀变体与免前缀简式；论直使=论值使之讹） */
+  const ASPECT_MAP = {
+    干支: '干支', 值符: '值符', 值使: '值使', 直使: '值使', 十干: '十干',
+    九星: '九星', 九宫: '九宫', 门户: '门户', 三甲: '三甲', 门户三甲: '门户三甲',
+    吉凶格: '吉凶格', 吉凶: '吉凶格', 断: '综断', 诀: '诀',
+  };
+  const aspectOf = (l) => {
+    // 「论门户三甲」为卷十三胎产占合并式节题，置于「门户」前优先匹配
+    const m = l.match(/^(?:又论|论|又)?(门户三甲|干支|值符|值使|直使|十干|九星|九宫|门户|三甲|吉凶格|吉凶|断|诀)$/);
+    return m ? ASPECT_MAP[m[1]] : null;
+  };
+
+  const lunDuan = [];
+  const topicsSeen = [];
+  for (const [file, dp] of [
+    ['11-juan11.txt', 'qmmj/book/juan11.md'],
+    ['12-juan12.txt', 'qmmj/book/juan12.md'],
+    ['13-juan13.txt', 'qmmj/book/juan13.md'],
+    ['14-juan14.txt', 'qmmj/book/juan14.md'],
+  ]) {
+    let topic = null;
+    let cur = null;
+    for (const line of readLines2(file)) {
+      if (!isHead(line)) {
+        if (cur) cur.text.push(line);
+        continue;
+      }
+      const t = line.match(TOPIC_RE);
+      if (t && !aspectOf(line)) {
+        topic = t[1];
+        if (!topicsSeen.includes(topic)) topicsSeen.push(topic);
+        cur = null;
+        continue;
+      }
+      const aspect = topic ? aspectOf(line) : null;
+      if (aspect) {
+        cur = { topic, aspect, title: line, text: [], docPath: dp };
+        lunDuan.push(cur);
+        continue;
+      }
+      // 非占类非方面的节题（千金诀/禹罡图/论主客…）：脱离当前占类语境
+      topic = null;
+      cur = null;
+    }
+  }
+  for (const e of lunDuan) e.text = e.text.join('\n');
+  const ldEmpty = lunDuan.filter((e) => !e.text);
+
+  // ---------- 校验与落盘 ----------
+  console.log(`zhanmu/占目: ${zhanMu.length} 条（卷七~十）`);
+  console.log(`zhanmu/分类论断: ${lunDuan.length} 条，占类 ${topicsSeen.length}: ${topicsSeen.join('、')}`);
+  if (zhanMu.length < 100) {
+    console.error(`✗ 占目数 ${zhanMu.length} < 100`);
+    process.exit(1);
+  }
+  if (topicsSeen.length < 14 || lunDuan.length < 100) {
+    console.error(`✗ 分类论断异常: 占类 ${topicsSeen.length}，条目 ${lunDuan.length}`);
+    process.exit(1);
+  }
+  if (ldEmpty.length) {
+    console.error('✗ 论断空节:', ldEmpty.map((e) => `${e.topic}·${e.title}`).join('、'));
+    process.exit(1);
+  }
+
+  writeFileSync(
+    path.join(outDir, 'zhanmu.json'),
+    JSON.stringify(
+      {
+        source: 'ctext.org wiki res=953105《奇門遁甲秘笈大全》（卷七~十 占目；卷十一~十四 分类论断）',
+        topics: topicsSeen,
+        lunDuan,
+        zhanMu,
+      },
+      null,
+      1,
+    ),
+    'utf8',
+  );
+}
