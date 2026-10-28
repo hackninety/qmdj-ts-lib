@@ -1,5 +1,12 @@
 # qmdj-ts-lib 奇门遁甲典籍语料库
 
+> **维护位置已迁移**：后续源码、问题反馈和独立版本发布统一位于 [common-ts-lib/packages/qmdj-ts-lib](https://github.com/hackninety/common-ts-lib/tree/main/packages/qmdj-ts-lib)。包名与公开接口保留，本仓库保留历史，不再作为新版本安装来源。
+>
+> 当前安装：`npm install https://github.com/hackninety/common-ts-lib/releases/download/qmdj-ts-lib-v0.2.0/qmdj-ts-lib-0.2.0.tgz`
+>
+> 以下为迁移前的历史说明，其中旧仓库安装命令仅供追溯；新的开发和发布流程见 [迁移说明](https://github.com/hackninety/common-ts-lib/blob/main/MIGRATION.md)。
+
+
 奇门遁甲古籍的 TypeScript 语料库。首册收录**《奇門遁甲秘笈大全》三十卷**（旧题明·刘伯温辑），
 附**《諸葛武侯行兵遁甲金函玉鏡》残卷**（卷一、卷六，旧题蜀·诸葛亮撰）。
 
